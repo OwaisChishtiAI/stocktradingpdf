@@ -15,7 +15,7 @@ from config import Config
 
 class Crawler:
     def __init__(self):
-        self.data = {"axs_code" : [], "headline" : [], "date_published" : [], "link_to_pdf" : [], "positive_count" : [], "negative_count" : [], "positive_words" : [], "negative_words" : []}
+        self.data = {"axs_code" : [], "headline" : [], "date_published" : [], "link_to_pdf" : [], "total_word_count" : [], "positive_count" : [], "negative_count" : [], "positive_words" : [], "negative_words" : []}
         self.temp_links = []
         self.pdf_link = "https://www.asx.com.au"
 
@@ -27,6 +27,7 @@ class Crawler:
     def cleaner(self):
         for key in self.data.keys():
             self.data[key] = []
+        self.temp_links = []
 
     def run(self):
         options = webdriver.ChromeOptions()
@@ -97,16 +98,16 @@ class Crawler:
                     positive_words = []
                     negative_words_count = 0
                     negative_words = []
-
+                    self.data['total_word_count'].append(len(text.split()))
                     for positive_word in Config.POSITIVE_WORDS_LIST:
-                        if positive_word in text:
+                        if positive_word in text.lower():
                             positive_words_count += 1
                             positive_words.append(positive_word)
                     self.data["positive_words"].append(positive_words)
                     self.data['positive_count'].append(positive_words_count)
 
                     for negative_word in Config.NEGATIVE_WORDS_LIST:
-                        if negative_word in text:
+                        if negative_word in text.lower():
                             negative_words_count += 1
                             negative_words.append(negative_word)
                     self.data["negative_words"].append(negative_words)
