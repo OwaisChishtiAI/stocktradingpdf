@@ -2,7 +2,7 @@ import os
 class Config:
     POSITIVE_WORDS_LIST = [x for x in open("positive_words_list.txt", "r", encoding="utf8", errors="ignore").read().split("\n") if x]
     NEGATIVE_WORDS_LIST = [x for x in open("negative_words_list.txt", "r", encoding="utf8", errors="ignore").read().split("\n") if x]
-
+    STORAGE_FILE = "Stocks Data.xlsx"
     CHROME_EXTENSION_PATH = r"C:\Users\owais\Documents\chrome95\chromedriver_win32\chromedriver.exe"
     EXPERIMENTAL_OPTIONS = {"download.default_directory": os.path.join(os.path.abspath('.') , "cached_pdfs"),\
     "download.prompt_for_download": False,\

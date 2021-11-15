@@ -3,22 +3,29 @@ from config import Config
 from time import sleep
 
 def main():
+    i = 1
     while(1):
-        print("Initiating...")
+        print("Initiating Round ", i)
         crawl = Crawler()
         has_crawled = crawl.run()
         if has_crawled:
+            print("[INFO] Data Extracted.")
             downloaded = crawl.download_pdf()
             if downloaded:
+                print("[INFO] PDFs Downloaded.")
                 extracted = crawl.extract_pdf()
                 if extracted:
-                    crawl.log("Round Successful.")
+                    print("[INFO] PDFs Readed.")
+                    crawl.save_results()
+                    print("[INFO] Data Saved.")
+                    crawl.log("Round {} Successful.".format(str(i)))
                 else:
-                    crawl.log("Round Not Successful.")
+                    crawl.log("Round {} Not Successful.".format(str(i)))
             else:
                 crawl.log("Found No Downloads.")
         print("Waiting...")
         sleep(Config.INTERVAL_TIME)
+        i+=1
 
 if __name__ == "__main__":
     main()

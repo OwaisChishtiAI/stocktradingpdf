@@ -40,7 +40,7 @@ class Crawler:
             self.log("Data cleaned ForceFully: " + str(len(self.data['axs_code'])))
             self.cleaner()
         if items:
-            for item in range(len(items)):
+            for item in range(3):#len(items)
                 i = 0
                 if items[item]:
                     for each in items[item].findAll('td'):
@@ -64,7 +64,7 @@ class Crawler:
                 options = webdriver.ChromeOptions()
                 options.add_argument(Config.HEADLESS)
                 driver = webdriver.Chrome(Config.CHROME_EXTENSION_PATH, options=options)
-                driver.get(self.pdf_link + each.replace("amp;")) #1
+                driver.get(self.pdf_link + each.replace("amp;", "")) #1
                 link = driver.find_element_by_xpath("//input[@name='pdfURL']")
                 link = link.get_attribute('value') #2
                 driver.close()
@@ -74,7 +74,10 @@ class Crawler:
                 options.add_experimental_option('prefs', Config.EXPERIMENTAL_OPTIONS)
                 driver = webdriver.Chrome(Config.CHROME_EXTENSION_PATH, options=options)
                 self.log("Chrome Started for pdfs.")
-                driver.get(link)
+                print("LINK: ", link)
+                self.data['link_to_pdf'].append(self.pdf_link + link)
+                driver.get(self.pdf_link + link)
+                time.sleep(5)
             return True
         else:
             return False
@@ -84,26 +87,48 @@ class Crawler:
         if files:
             for file in files:
                 if file.endswith(".pdf"):
-                    file = open(os.path.join(Config.EXPERIMENTAL_OPTIONS['download.default_directory'], file), 'rb')
-                    fileReader = PyPDF2.PdfFileReader(file)
+                    filer = open(os.path.join(Config.EXPERIMENTAL_OPTIONS['download.default_directory'], file), 'rb')
+                    fileReader = PyPDF2.PdfFileReader(filer)
                     text = ""
                     for i in range(fileReader.numPages):
                         pageObj = fileReader.getPage(i)
                         text += pageObj.extractText()
                     positive_words_count = 0
                     positive_words = []
+                    negative_words_count = 0
+                    negative_words = []
+
                     for positive_word in Config.POSITIVE_WORDS_LIST:
                         if positive_word in text:
                             positive_words_count += 1
                             positive_words.append(positive_word)
                     self.data["positive_words"].append(positive_words)
                     self.data['positive_count'].append(positive_words_count)
+
+                    for negative_word in Config.NEGATIVE_WORDS_LIST:
+                        if negative_word in text:
+                            negative_words_count += 1
+                            negative_words.append(negative_word)
+                    self.data["negative_words"].append(negative_words)
+                    self.data['negative_count'].append(negative_words_count)
+                    filer.close()
                     os.remove(os.path.join(Config.EXPERIMENTAL_OPTIONS['download.default_directory'], file))
             return True
         else:
             return False
 
     def save_results(self):
-        df = pd.DataFrame(self.data)
-        df.to_csv("results.csv")
+        print(self.data)
+        new_df = pd.DataFrame(self.data)
+        is_file = os.path.isfile(Config.STORAGE_FILE)
+        if is_file:
+            print("[INFO] Storage File Found.")
+            df = pd.read_excel(Config.STORAGE_FILE, engine='openpyxl')
+            df = df.append(new_df)
+            df.to_excel(Config.STORAGE_FILE, index=False)
+        else:
+            print("[INFO] Storage File Not Found.")
+            print("[INFO] Creating Storage File")
+            new_df.to_excel(Config.STORAGE_FILE, index=False)
+
         self.cleaner()
