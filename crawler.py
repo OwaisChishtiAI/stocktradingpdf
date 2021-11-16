@@ -100,32 +100,44 @@ class Crawler:
         if files:
             for file in files:
                 if file.endswith(".pdf"):
-                    filer = open(os.path.join(Config.EXPERIMENTAL_OPTIONS['download.default_directory'], file), 'rb')
-                    fileReader = PyPDF2.PdfFileReader(filer)
-                    text = ""
-                    for i in range(fileReader.numPages):
-                        pageObj = fileReader.getPage(i)
-                        text += pageObj.extractText()
-                    positive_words_count = 0
-                    positive_words = []
-                    negative_words_count = 0
-                    negative_words = []
-                    self.data['total_word_count'].append(len(text.split()))
-                    for positive_word in Config.POSITIVE_WORDS_LIST:
-                        if positive_word in text.lower():
-                            positive_words_count += 1
-                            positive_words.append(positive_word)
-                    self.data["positive_words"].append(positive_words)
-                    self.data['positive_count'].append(positive_words_count)
+                    try:
+                        filer = open(os.path.join(Config.EXPERIMENTAL_OPTIONS['download.default_directory'], file), 'rb')
+                        fileReader = PyPDF2.PdfFileReader(filer)
+                        text = ""
+                        for i in range(fileReader.numPages):
+                            pageObj = fileReader.getPage(i)
+                            text += pageObj.extractText()
+                        positive_words_count = 0
+                        positive_words = []
+                        negative_words_count = 0
+                        negative_words = []
+                        self.data['total_word_count'].append(len(text.split()))
+                        for positive_word in Config.POSITIVE_WORDS_LIST:
+                            if positive_word in text.lower():
+                                positive_words_count += 1
+                                positive_words.append(positive_word)
+                        self.data["positive_words"].append(positive_words)
+                        self.data['positive_count'].append(positive_words_count)
 
-                    for negative_word in Config.NEGATIVE_WORDS_LIST:
-                        if negative_word in text.lower():
-                            negative_words_count += 1
-                            negative_words.append(negative_word)
-                    self.data["negative_words"].append(negative_words)
-                    self.data['negative_count'].append(negative_words_count)
-                    filer.close()
-                    os.remove(os.path.join(Config.EXPERIMENTAL_OPTIONS['download.default_directory'], file))
+                        for negative_word in Config.NEGATIVE_WORDS_LIST:
+                            if negative_word in text.lower():
+                                negative_words_count += 1
+                                negative_words.append(negative_word)
+                        self.data["negative_words"].append(negative_words)
+                        self.data['negative_count'].append(negative_words_count)
+                        filer.close()
+                    except Exception as e:
+                        self.log("[Exception] PDF is corrupted")
+                        try:
+                            filer.close()
+                        except:
+                            pass
+                        self.data['total_word_count'].append("Nan")
+                        self.data["positive_words"].append(["Nan"])
+                        self.data['positive_count'].append("Nan")
+                        self.data["negative_words"].append(["Nan"])
+                        self.data['negative_count'].append("Nan")
+                        os.remove(os.path.join(Config.EXPERIMENTAL_OPTIONS['download.default_directory'], file))
             return True
         else:
             return False
