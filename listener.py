@@ -29,6 +29,7 @@ def main():
         except Exception as e:
             print("[ERROR] Round {} Failed.".format(str(i)))
             crawl.log("Round {} Failed.".format(str(i)) + str(e))
+            sleep(Config.INTERVAL_TIME)
         i+=1
 
 if __name__ == "__main__":

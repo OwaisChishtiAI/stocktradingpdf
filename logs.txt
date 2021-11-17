@@ -1,99 +1,1426 @@
-2021-11-14 14:34:47.798545: Chrome Started for main page.
-2021-11-14 14:34:48.055119: No Items Found.
-2021-11-15 09:31:29.259038: Chrome Started for main page.
-2021-11-15 09:32:23.912223: Chrome Started for main page.
-2021-11-15 09:32:30.654957: Chrome Started for pdfs.
-2021-11-15 09:34:37.044699: Chrome Started for main page.
-2021-11-15 09:35:29.292582: Chrome Started for main page.
-2021-11-15 09:35:35.557285: Chrome Started for pdfs.
-2021-11-15 09:36:19.454698: Chrome Started for main page.
-2021-11-15 09:36:26.132126: Chrome Started for pdfs.
-2021-11-15 09:36:34.036857: Chrome Started for pdfs.
-2021-11-15 09:40:04.588175: Chrome Started for main page.
-2021-11-15 09:40:10.893887: Chrome Started for pdfs.
-2021-11-15 09:40:19.978562: Chrome Started for pdfs.
-2021-11-15 09:42:31.349263: Chrome Started for main page.
-2021-11-15 09:42:37.605899: Chrome Started for pdfs.
-2021-11-15 09:42:44.710531: Chrome Started for pdfs.
-2021-11-15 09:45:17.857976: Chrome Started for main page.
-2021-11-15 09:45:24.623214: Chrome Started for pdfs.
-2021-11-15 09:45:36.998113: Chrome Started for pdfs.
-2021-11-15 09:53:13.491108: Chrome Started for main page.
-2021-11-15 09:53:20.120326: Chrome Started for pdfs.
-2021-11-15 09:53:38.827148: Chrome Started for pdfs.
-2021-11-15 09:53:55.122012: Round 1 Successful.
-2021-11-15 10:07:01.431881: Chrome Started for main page.
-2021-11-15 10:07:08.005783: Chrome Started for pdfs.
-2021-11-15 10:07:20.196472: Chrome Started for pdfs.
-2021-11-15 10:07:38.303416: Round 1 Successful.
-2021-11-15 10:12:53.257011: Chrome Started for main page.
-2021-11-15 10:13:01.745537: Chrome Started for pdfs.
-2021-11-15 10:13:13.732276: Chrome Started for pdfs.
-2021-11-15 10:14:45.907824: Chrome Started for main page.
-2021-11-15 10:14:52.342688: Chrome Started for pdfs.
-2021-11-15 10:15:04.556581: Chrome Started for pdfs.
-2021-11-15 10:15:21.230879: Round 1 Successful.
-2021-11-15 10:17:06.484289: Chrome Started for main page.
-2021-11-15 10:17:13.158621: Chrome Started for pdfs.
-2021-11-15 10:17:25.574374: Chrome Started for pdfs.
-2021-11-15 10:17:41.652546: Round 1 Successful.
-2021-11-15 10:23:03.663056: Chrome Started for main page.
-2021-11-15 10:23:12.659503: Chrome Started for pdfs.
-2021-11-15 10:23:26.439441: Chrome Started for pdfs.
-2021-11-15 10:23:42.482577: Round 2 Successful.
-2021-11-15 12:14:45.310018: Chrome Started for main page.
-2021-11-15 12:14:52.189666: Chrome Started for pdfs.
-2021-11-15 12:15:06.486544: Chrome Started for pdfs.
-2021-11-15 12:15:24.077258: Round 1 Successful.
-2021-11-15 12:19:15.163751: Chrome Started for main page.
-2021-11-15 12:19:22.940167: Chrome Started for pdfs.
-2021-11-15 12:19:36.426588: Chrome Started for pdfs.
-2021-11-15 12:19:52.432145: Round 1 Successful.
-2021-11-15 12:25:14.900867: Chrome Started for main page.
-2021-11-15 12:25:21.803328: Chrome Started for pdfs.
-2021-11-15 12:25:35.976699: Chrome Started for pdfs.
-2021-11-15 12:25:56.095409: Round 1 Successful.
-2021-11-15 12:27:10.732987: Chrome Started for main page.
-2021-11-15 12:27:18.547022: Chrome Started for pdfs.
-2021-11-15 12:27:33.220589: Chrome Started for pdfs.
-2021-11-15 12:27:56.444360: Round 2 Successful.
-2021-11-15 12:29:12.415183: Chrome Started for main page.
-2021-11-15 12:29:18.955723: Chrome Started for pdfs.
-2021-11-15 12:29:35.615661: Chrome Started for pdfs.
-2021-11-15 12:29:53.000116: Round 3 Successful.
-2021-11-15 12:31:07.999471: Chrome Started for main page.
-2021-11-15 12:31:15.604307: Chrome Started for pdfs.
-2021-11-15 12:31:30.248427: Chrome Started for pdfs.
-2021-11-15 12:31:50.650757: Round 4 Successful.
-2021-11-15 12:33:16.767205: Chrome Started for main page.
-2021-11-15 12:33:23.627511: Chrome Started for pdfs.
-2021-11-15 12:33:36.135330: Chrome Started for pdfs.
-2021-11-15 12:33:56.118840: Round 5 Successful.
-2021-11-16 09:57:34.637633: Chrome Started for main page.
-2021-11-16 09:57:42.125054: Chrome Started for pdfs.
-2021-11-16 09:57:54.317211: Chrome Started for pdfs.
-2021-11-16 09:58:09.327946: Round 1 Failed.arrays must all be same length
-2021-11-16 10:00:32.564719: Chrome Started for main page.
-2021-11-16 10:00:39.625485: Chrome Started for pdfs.
-2021-11-16 10:00:53.076231: Chrome Started for pdfs.
-2021-11-16 10:01:10.102307: Round 1 Failed.arrays must all be same length
-2021-11-16 10:01:57.404012: Chrome Started for main page.
-2021-11-16 10:02:04.237210: Chrome Started for pdfs.
-2021-11-16 10:02:21.420874: Chrome Started for pdfs.
-2021-11-16 10:02:41.196566: Round 1 Failed.arrays must all be same length
-2021-11-16 10:11:15.591437: Chrome Started for main page.
-2021-11-16 10:11:23.003541: Chrome Started for pdfs.
-2021-11-16 10:11:35.488970: Chrome Started for pdfs.
-2021-11-16 10:11:55.216999: Round 1 Failed.{'code': 400, 'message': 'Invalid values[1][7]: list_value {\n}\n', 'status': 'INVALID_ARGUMENT'}
-2021-11-16 10:15:59.253025: Chrome Started for main page.
-2021-11-16 10:16:06.462357: Chrome Started for pdfs.
-2021-11-16 10:16:19.502676: Chrome Started for pdfs.
-2021-11-16 10:16:34.646909: Round 1 Failed.arrays must all be same length
-2021-11-16 10:18:15.460796: Chrome Started for main page.
-2021-11-16 10:18:23.415053: Chrome Started for pdfs.
-2021-11-16 10:18:35.768052: Chrome Started for pdfs.
-2021-11-16 10:19:02.897612: Round 1 Failed.{'code': 400, 'message': 'Invalid values[1][7]: list_value {\n}\n', 'status': 'INVALID_ARGUMENT'}
-2021-11-16 10:23:21.624097: Chrome Started for main page.
-2021-11-16 10:23:28.788934: Chrome Started for pdfs.
-2021-11-16 10:23:45.434990: Chrome Started for pdfs.
-2021-11-16 10:24:12.181227: Round 1 Successful.
+2021-11-16 06:10:41.279703: Chrome Started for main page.
+2021-11-16 06:10:44.860398: Chrome Started for pdfs.
+2021-11-16 06:10:52.654845: Chrome Started for pdfs.
+2021-11-16 06:10:58.071101: Round 1 Failed.[Errno 2] No such file or directory: 'gsheets-332304-987c30f2b757.json'
+2021-11-16 06:29:30.189538: Chrome Started for main page.
+2021-11-16 06:29:33.457359: Chrome Started for pdfs.
+2021-11-16 06:29:41.303959: Chrome Started for pdfs.
+2021-11-16 06:29:52.043032: Round 1 Successful.
+2021-11-16 06:35:20.880051: Chrome Started for main page.
+2021-11-16 06:35:24.597520: Chrome Started for pdfs.
+2021-11-16 06:35:32.364618: Chrome Started for pdfs.
+2021-11-16 06:35:40.304566: Chrome Started for pdfs.
+2021-11-16 06:35:48.129768: Chrome Started for pdfs.
+2021-11-16 06:35:55.853903: Chrome Started for pdfs.
+2021-11-16 06:36:03.771900: Chrome Started for pdfs.
+2021-11-16 06:36:11.572955: Chrome Started for pdfs.
+2021-11-16 06:36:19.380046: Chrome Started for pdfs.
+2021-11-16 06:36:27.356554: Chrome Started for pdfs.
+2021-11-16 06:36:35.179989: Chrome Started for pdfs.
+2021-11-16 06:36:42.946192: Chrome Started for pdfs.
+2021-11-16 06:36:49.934804: Chrome Started for pdfs.
+2021-11-16 06:36:57.895843: Chrome Started for pdfs.
+2021-11-16 06:37:05.709015: Chrome Started for pdfs.
+2021-11-16 06:37:13.551961: Chrome Started for pdfs.
+2021-11-16 06:37:21.501005: Chrome Started for pdfs.
+2021-11-16 06:37:29.360694: Chrome Started for pdfs.
+2021-11-16 06:37:37.117322: Chrome Started for pdfs.
+2021-11-16 06:37:45.411053: Chrome Started for pdfs.
+2021-11-16 06:37:53.245968: Chrome Started for pdfs.
+2021-11-16 06:38:01.050039: Chrome Started for pdfs.
+2021-11-16 06:38:08.989427: Chrome Started for pdfs.
+2021-11-16 06:38:16.807432: Chrome Started for pdfs.
+2021-11-16 06:38:24.623540: Chrome Started for pdfs.
+2021-11-16 06:38:32.393963: Chrome Started for pdfs.
+2021-11-16 06:38:40.308516: Chrome Started for pdfs.
+2021-11-16 06:38:48.023820: Chrome Started for pdfs.
+2021-11-16 06:38:55.784295: Chrome Started for pdfs.
+2021-11-16 06:39:03.790684: Chrome Started for pdfs.
+2021-11-16 06:39:11.572428: Chrome Started for pdfs.
+2021-11-16 06:39:19.345386: Chrome Started for pdfs.
+2021-11-16 06:39:27.181244: Chrome Started for pdfs.
+2021-11-16 06:39:35.027225: Chrome Started for pdfs.
+2021-11-16 06:39:42.797105: Chrome Started for pdfs.
+2021-11-16 06:39:50.575730: Chrome Started for pdfs.
+2021-11-16 06:39:58.491278: Chrome Started for pdfs.
+2021-11-16 06:40:06.406902: Chrome Started for pdfs.
+2021-11-16 06:40:14.391784: Chrome Started for pdfs.
+2021-11-16 06:40:22.302500: Chrome Started for pdfs.
+2021-11-16 06:40:30.129381: Chrome Started for pdfs.
+2021-11-16 06:40:37.973267: Chrome Started for pdfs.
+2021-11-16 06:40:45.819689: Chrome Started for pdfs.
+2021-11-16 06:40:53.636650: Chrome Started for pdfs.
+2021-11-16 06:41:01.435922: Chrome Started for pdfs.
+2021-11-16 06:41:09.234062: Chrome Started for pdfs.
+2021-11-16 06:41:17.202137: Chrome Started for pdfs.
+2021-11-16 06:41:25.018458: Chrome Started for pdfs.
+2021-11-16 06:41:32.903451: Chrome Started for pdfs.
+2021-11-16 06:41:40.903563: Chrome Started for pdfs.
+2021-11-16 06:41:48.733419: Chrome Started for pdfs.
+2021-11-16 06:41:56.532204: Chrome Started for pdfs.
+2021-11-16 06:42:04.305102: Chrome Started for pdfs.
+2021-11-16 06:42:12.261549: Chrome Started for pdfs.
+2021-11-16 06:42:20.117789: Chrome Started for pdfs.
+2021-11-16 06:42:27.979959: Chrome Started for pdfs.
+2021-11-16 06:42:36.030218: Chrome Started for pdfs.
+2021-11-16 06:42:43.842200: Chrome Started for pdfs.
+2021-11-16 06:42:51.588557: Chrome Started for pdfs.
+2021-11-16 06:42:59.404464: Chrome Started for pdfs.
+2021-11-16 06:43:07.959263: Chrome Started for pdfs.
+2021-11-16 06:43:15.799531: Chrome Started for pdfs.
+2021-11-16 06:43:23.962910: Chrome Started for pdfs.
+2021-11-16 06:43:31.775117: Chrome Started for pdfs.
+2021-11-16 06:43:38.587387: Chrome Started for pdfs.
+2021-11-16 06:43:46.466131: Chrome Started for pdfs.
+2021-11-16 06:43:54.328019: Chrome Started for pdfs.
+2021-11-16 06:44:02.151542: Chrome Started for pdfs.
+2021-11-16 06:44:10.096018: Chrome Started for pdfs.
+2021-11-16 06:44:17.899348: Chrome Started for pdfs.
+2021-11-16 06:44:25.762537: Chrome Started for pdfs.
+2021-11-16 06:44:33.619869: Chrome Started for pdfs.
+2021-11-16 06:44:41.433678: Chrome Started for pdfs.
+2021-11-16 06:44:49.285929: Chrome Started for pdfs.
+2021-11-16 06:44:57.234477: Chrome Started for pdfs.
+2021-11-16 06:45:05.111437: Chrome Started for pdfs.
+2021-11-16 06:45:12.965388: Chrome Started for pdfs.
+2021-11-16 06:45:20.927053: Chrome Started for pdfs.
+2021-11-16 06:45:27.730993: Chrome Started for pdfs.
+2021-11-16 06:45:35.457358: Chrome Started for pdfs.
+2021-11-16 06:45:42.365765: Chrome Started for pdfs.
+2021-11-16 06:45:50.192480: Chrome Started for pdfs.
+2021-11-16 06:45:57.979892: Chrome Started for pdfs.
+2021-11-16 06:46:05.891025: Chrome Started for pdfs.
+2021-11-16 06:46:13.776384: Chrome Started for pdfs.
+2021-11-16 06:46:21.513594: Chrome Started for pdfs.
+2021-11-16 06:46:29.422809: Chrome Started for pdfs.
+2021-11-16 06:46:37.260043: Chrome Started for pdfs.
+2021-11-16 06:46:44.991187: Chrome Started for pdfs.
+2021-11-16 06:46:52.977930: Chrome Started for pdfs.
+2021-11-16 06:47:00.843333: Chrome Started for pdfs.
+2021-11-16 06:47:08.648387: Chrome Started for pdfs.
+2021-11-16 06:47:17.590011: Chrome Started for pdfs.
+2021-11-16 06:47:25.403573: Chrome Started for pdfs.
+2021-11-16 06:47:33.189903: Chrome Started for pdfs.
+2021-11-16 06:47:41.378754: Chrome Started for pdfs.
+2021-11-16 06:47:49.174977: Chrome Started for pdfs.
+2021-11-16 06:47:57.053452: Chrome Started for pdfs.
+2021-11-16 06:48:06.430837: Chrome Started for pdfs.
+2021-11-16 06:48:14.190180: Chrome Started for pdfs.
+2021-11-16 06:48:22.069904: Chrome Started for pdfs.
+2021-11-16 06:48:29.874756: Chrome Started for pdfs.
+2021-11-16 06:48:37.609676: Chrome Started for pdfs.
+2021-11-16 06:48:45.554568: Chrome Started for pdfs.
+2021-11-16 06:48:53.417631: Chrome Started for pdfs.
+2021-11-16 06:49:00.181347: Chrome Started for pdfs.
+2021-11-16 06:49:08.134713: Chrome Started for pdfs.
+2021-11-16 06:49:15.948423: Chrome Started for pdfs.
+2021-11-16 06:49:23.717343: Chrome Started for pdfs.
+2021-11-16 06:49:31.709531: Chrome Started for pdfs.
+2021-11-16 06:49:39.538565: Chrome Started for pdfs.
+2021-11-16 06:49:47.340938: Chrome Started for pdfs.
+2021-11-16 06:49:55.300671: Chrome Started for pdfs.
+2021-11-16 06:50:03.153371: Chrome Started for pdfs.
+2021-11-16 06:50:10.887140: Chrome Started for pdfs.
+2021-11-16 06:50:18.829846: Chrome Started for pdfs.
+2021-11-16 06:50:26.686743: Chrome Started for pdfs.
+2021-11-16 06:50:34.415661: Chrome Started for pdfs.
+2021-11-16 06:50:42.303147: Chrome Started for pdfs.
+2021-11-16 06:50:50.133043: Chrome Started for pdfs.
+2021-11-16 06:50:57.971180: Chrome Started for pdfs.
+2021-11-16 06:51:04.903513: Chrome Started for pdfs.
+2021-11-16 06:51:12.757346: Chrome Started for pdfs.
+2021-11-16 06:51:20.480446: Chrome Started for pdfs.
+2021-11-16 06:51:28.284506: Chrome Started for pdfs.
+2021-11-16 06:51:35.000150: Chrome Started for pdfs.
+2021-11-16 06:51:42.812550: Chrome Started for pdfs.
+2021-11-16 06:51:50.786648: Chrome Started for pdfs.
+2021-11-16 06:51:58.588790: Chrome Started for pdfs.
+2021-11-16 06:52:06.373117: Chrome Started for pdfs.
+2021-11-16 06:52:14.342812: Chrome Started for pdfs.
+2021-11-16 06:52:22.134071: Chrome Started for pdfs.
+2021-11-16 06:52:29.967406: Chrome Started for pdfs.
+2021-11-16 06:52:38.448395: Chrome Started for pdfs.
+2021-11-16 06:52:46.315906: Chrome Started for pdfs.
+2021-11-16 06:52:54.251347: Chrome Started for pdfs.
+2021-11-16 06:53:02.028987: Chrome Started for pdfs.
+2021-11-16 06:53:09.865248: Chrome Started for pdfs.
+2021-11-16 06:53:17.795636: Chrome Started for pdfs.
+2021-11-16 06:53:25.562085: Chrome Started for pdfs.
+2021-11-16 06:53:33.394461: Chrome Started for pdfs.
+2021-11-16 06:53:41.334745: Chrome Started for pdfs.
+2021-11-16 06:53:49.056512: Chrome Started for pdfs.
+2021-11-16 06:53:56.886035: Chrome Started for pdfs.
+2021-11-16 06:54:04.795687: Chrome Started for pdfs.
+2021-11-16 06:54:12.571955: Chrome Started for pdfs.
+2021-11-16 06:54:20.374656: Chrome Started for pdfs.
+2021-11-16 06:54:28.292464: Chrome Started for pdfs.
+2021-11-16 06:54:36.093499: Chrome Started for pdfs.
+2021-11-16 06:54:43.913232: Chrome Started for pdfs.
+2021-11-16 06:54:51.836202: Chrome Started for pdfs.
+2021-11-16 06:54:59.603306: Chrome Started for pdfs.
+2021-11-16 06:55:07.392748: Chrome Started for pdfs.
+2021-11-16 06:55:15.372979: Chrome Started for pdfs.
+2021-11-16 06:55:23.141388: Chrome Started for pdfs.
+2021-11-16 06:55:30.969287: Chrome Started for pdfs.
+2021-11-16 06:55:38.882484: Chrome Started for pdfs.
+2021-11-16 06:55:46.722101: Chrome Started for pdfs.
+2021-11-16 06:55:54.499812: Chrome Started for pdfs.
+2021-11-16 06:56:02.461997: Chrome Started for pdfs.
+2021-11-16 06:56:10.223079: Chrome Started for pdfs.
+2021-11-16 06:56:18.048969: Chrome Started for pdfs.
+2021-11-16 06:56:25.970654: Chrome Started for pdfs.
+2021-11-16 06:56:33.755426: Chrome Started for pdfs.
+2021-11-16 06:56:41.542868: Chrome Started for pdfs.
+2021-11-16 06:56:49.496556: Chrome Started for pdfs.
+2021-11-16 06:56:57.306480: Chrome Started for pdfs.
+2021-11-16 06:57:05.123329: Chrome Started for pdfs.
+2021-11-16 06:57:13.654954: Chrome Started for pdfs.
+2021-11-16 06:57:21.448936: Chrome Started for pdfs.
+2021-11-16 06:57:29.278701: Chrome Started for pdfs.
+2021-11-16 06:57:37.138710: Chrome Started for pdfs.
+2021-11-16 06:57:44.933642: Chrome Started for pdfs.
+2021-11-16 06:57:52.780893: Chrome Started for pdfs.
+2021-11-16 06:58:00.552907: Chrome Started for pdfs.
+2021-11-16 06:58:08.369414: Chrome Started for pdfs.
+2021-11-16 06:58:16.249224: Chrome Started for pdfs.
+2021-11-16 06:58:24.030776: Chrome Started for pdfs.
+2021-11-16 06:58:31.862986: Chrome Started for pdfs.
+2021-11-16 06:58:39.747313: Chrome Started for pdfs.
+2021-11-16 06:58:47.593205: Chrome Started for pdfs.
+2021-11-16 06:58:55.394521: Chrome Started for pdfs.
+2021-11-16 06:59:03.276383: Chrome Started for pdfs.
+2021-11-16 06:59:11.107313: Chrome Started for pdfs.
+2021-11-16 06:59:18.906416: Chrome Started for pdfs.
+2021-11-16 06:59:26.834805: Chrome Started for pdfs.
+2021-11-16 06:59:34.627217: Chrome Started for pdfs.
+2021-11-16 06:59:42.379481: Chrome Started for pdfs.
+2021-11-16 06:59:50.248272: Chrome Started for pdfs.
+2021-11-16 06:59:58.097241: Chrome Started for pdfs.
+2021-11-16 07:00:05.822540: Chrome Started for pdfs.
+2021-11-16 07:00:12.693593: Chrome Started for pdfs.
+2021-11-16 07:00:20.552877: Chrome Started for pdfs.
+2021-11-16 07:00:28.277773: Chrome Started for pdfs.
+2021-11-16 07:00:36.217954: Chrome Started for pdfs.
+2021-11-16 07:00:44.072426: Chrome Started for pdfs.
+2021-11-16 07:00:51.881240: Chrome Started for pdfs.
+2021-11-16 07:00:59.807860: Chrome Started for pdfs.
+2021-11-16 07:01:07.611000: Chrome Started for pdfs.
+2021-11-16 07:01:15.437355: Chrome Started for pdfs.
+2021-11-16 07:01:23.369721: Chrome Started for pdfs.
+2021-11-16 07:01:31.224169: Chrome Started for pdfs.
+2021-11-16 07:02:35.046005: Chrome Started for main page.
+2021-11-16 07:02:38.707942: Chrome Started for pdfs.
+2021-11-16 07:02:45.592971: Chrome Started for pdfs.
+2021-11-16 07:02:53.412849: Chrome Started for pdfs.
+2021-11-16 07:03:01.198342: Chrome Started for pdfs.
+2021-11-16 07:03:09.129769: Chrome Started for pdfs.
+2021-11-16 07:03:16.900499: Chrome Started for pdfs.
+2021-11-16 07:03:24.721006: Chrome Started for pdfs.
+2021-11-16 07:03:32.577986: Chrome Started for pdfs.
+2021-11-16 07:03:40.503244: Chrome Started for pdfs.
+2021-11-16 07:03:52.485421: Round 1 Successful.
+2021-11-16 07:18:59.364217: Chrome Started for main page.
+2021-11-16 07:19:02.697862: Chrome Started for pdfs.
+2021-11-16 07:19:10.510568: Chrome Started for pdfs.
+2021-11-16 07:19:17.365670: Chrome Started for pdfs.
+2021-11-16 07:19:25.296522: Chrome Started for pdfs.
+2021-11-16 07:19:33.119411: Chrome Started for pdfs.
+2021-11-16 07:19:40.941638: Chrome Started for pdfs.
+2021-11-16 07:19:48.734110: Chrome Started for pdfs.
+2021-11-16 07:19:56.664730: Chrome Started for pdfs.
+2021-11-16 07:20:04.492121: Chrome Started for pdfs.
+2021-11-16 07:20:16.499219: Round 2 Successful.
+2021-11-16 07:35:23.762479: Chrome Started for main page.
+2021-11-16 07:35:27.145484: Chrome Started for pdfs.
+2021-11-16 07:35:34.957772: Chrome Started for pdfs.
+2021-11-16 07:35:42.746329: Chrome Started for pdfs.
+2021-11-16 07:35:50.633140: Chrome Started for pdfs.
+2021-11-16 07:35:58.390101: Chrome Started for pdfs.
+2021-11-16 07:36:06.202759: Chrome Started for pdfs.
+2021-11-16 07:36:14.122758: Chrome Started for pdfs.
+2021-11-16 07:36:21.890374: Chrome Started for pdfs.
+2021-11-16 07:36:29.755540: Chrome Started for pdfs.
+2021-11-16 07:36:41.292664: Round 3 Successful.
+2021-11-16 07:51:48.328840: Chrome Started for main page.
+2021-11-16 07:51:51.814883: Chrome Started for pdfs.
+2021-11-16 07:51:59.675494: Chrome Started for pdfs.
+2021-11-16 07:52:07.459766: Chrome Started for pdfs.
+2021-11-16 07:52:15.208971: Chrome Started for pdfs.
+2021-11-16 07:52:23.113092: Chrome Started for pdfs.
+2021-11-16 07:52:30.964934: Chrome Started for pdfs.
+2021-11-16 07:52:38.745734: Chrome Started for pdfs.
+2021-11-16 07:52:46.697109: Chrome Started for pdfs.
+2021-11-16 07:52:54.499599: Chrome Started for pdfs.
+2021-11-16 07:53:06.457315: Round 4 Successful.
+2021-11-16 08:08:12.510936: Chrome Started for main page.
+2021-11-16 08:08:15.403359: Chrome Started for pdfs.
+2021-11-16 08:08:23.234234: Chrome Started for pdfs.
+2021-11-16 08:08:31.059189: Chrome Started for pdfs.
+2021-11-16 08:08:38.839985: Chrome Started for pdfs.
+2021-11-16 08:08:46.713513: Chrome Started for pdfs.
+2021-11-16 08:08:54.578304: Chrome Started for pdfs.
+2021-11-16 08:09:02.362308: Chrome Started for pdfs.
+2021-11-16 08:09:10.170178: Chrome Started for pdfs.
+2021-11-16 08:09:18.095180: Chrome Started for pdfs.
+2021-11-16 08:09:24.629855: Round 5 Failed.arrays must all be same length
+2021-11-16 08:24:32.320602: Chrome Started for main page.
+2021-11-16 08:24:35.772554: Chrome Started for pdfs.
+2021-11-16 08:24:43.574376: Chrome Started for pdfs.
+2021-11-16 08:24:51.545490: Chrome Started for pdfs.
+2021-11-16 08:24:58.275275: Chrome Started for pdfs.
+2021-11-16 08:25:06.066547: Chrome Started for pdfs.
+2021-11-16 08:25:13.908249: Chrome Started for pdfs.
+2021-11-16 08:25:21.783912: Chrome Started for pdfs.
+2021-11-16 08:25:29.572736: Chrome Started for pdfs.
+2021-11-16 08:25:37.409621: Chrome Started for pdfs.
+2021-11-16 08:25:44.926612: Round 6 Failed.Error -5 while decompressing data: incomplete or truncated stream
+2021-11-16 08:40:52.337847: Chrome Started for main page.
+2021-11-16 08:40:55.793855: Chrome Started for pdfs.
+2021-11-16 08:41:03.570550: Chrome Started for pdfs.
+2021-11-16 08:41:11.385943: Chrome Started for pdfs.
+2021-11-16 08:41:19.233909: Chrome Started for pdfs.
+2021-11-16 08:41:27.050314: Chrome Started for pdfs.
+2021-11-16 08:41:34.898145: Chrome Started for pdfs.
+2021-11-16 08:41:42.745422: Chrome Started for pdfs.
+2021-11-16 08:41:50.569880: Chrome Started for pdfs.
+2021-11-16 08:41:58.389397: Chrome Started for pdfs.
+2021-11-16 08:42:04.005065: Round 7 Failed.Error -5 while decompressing data: incomplete or truncated stream
+2021-11-16 08:57:10.450818: Chrome Started for main page.
+2021-11-16 08:57:14.125624: Chrome Started for pdfs.
+2021-11-16 08:57:21.978235: Chrome Started for pdfs.
+2021-11-16 08:57:29.774583: Chrome Started for pdfs.
+2021-11-16 08:57:37.600294: Chrome Started for pdfs.
+2021-11-16 08:57:45.530645: Chrome Started for pdfs.
+2021-11-16 08:57:53.293690: Chrome Started for pdfs.
+2021-11-16 08:58:01.090307: Chrome Started for pdfs.
+2021-11-16 08:58:07.950844: Chrome Started for pdfs.
+2021-11-16 08:58:15.806900: Chrome Started for pdfs.
+2021-11-16 08:58:21.566044: Round 8 Failed.Error -5 while decompressing data: incomplete or truncated stream
+2021-11-16 09:03:31.450885: Chrome Started for main page.
+2021-11-16 09:03:34.944681: Chrome Started for pdfs.
+2021-11-16 09:03:41.716911: Chrome Started for pdfs.
+2021-11-16 09:03:49.523997: Chrome Started for pdfs.
+2021-11-16 09:03:57.396079: Chrome Started for pdfs.
+2021-11-16 09:04:05.253043: Chrome Started for pdfs.
+2021-11-16 09:04:13.084776: Chrome Started for pdfs.
+2021-11-16 09:04:20.961639: Chrome Started for pdfs.
+2021-11-16 09:04:28.969322: Chrome Started for pdfs.
+2021-11-16 09:04:36.756443: Chrome Started for pdfs.
+2021-11-16 09:04:42.589520: Round 1 Failed.Error -5 while decompressing data: incomplete or truncated stream
+2021-11-16 09:22:39.881773: Chrome Started for main page.
+2021-11-16 09:22:43.547315: Chrome Started for pdfs.
+2021-11-16 09:22:51.334107: Chrome Started for pdfs.
+2021-11-16 09:22:56.723806: [Exception] PDF is corrupted
+2021-11-16 09:23:09.987985: Round 1 Failed.arrays must all be same length
+2021-11-16 09:25:23.198094: Chrome Started for main page.
+2021-11-16 09:25:25.585132: Chrome Started for pdfs.
+2021-11-16 09:25:33.435044: Chrome Started for pdfs.
+2021-11-16 09:25:41.265353: Chrome Started for pdfs.
+2021-11-16 09:25:49.223730: Chrome Started for pdfs.
+2021-11-16 09:25:56.940850: Chrome Started for pdfs.
+2021-11-16 09:26:04.767664: Chrome Started for pdfs.
+2021-11-16 09:26:12.688828: Chrome Started for pdfs.
+2021-11-16 09:26:20.525300: Chrome Started for pdfs.
+2021-11-16 09:26:28.366451: Chrome Started for pdfs.
+2021-11-16 09:26:36.211597: Round 1 Failed.[Errno 2] No such file or directory: 'gsheets-332304-987c30f2b757.json'
+2021-11-16 09:28:59.997765: Chrome Started for main page.
+2021-11-16 09:29:03.627412: Chrome Started for pdfs.
+2021-11-16 09:29:11.399544: Chrome Started for pdfs.
+2021-11-16 09:29:19.197203: Chrome Started for pdfs.
+2021-11-16 09:29:27.037342: Chrome Started for pdfs.
+2021-11-16 09:29:34.847683: Chrome Started for pdfs.
+2021-11-16 09:29:42.670256: Chrome Started for pdfs.
+2021-11-16 09:29:50.523190: Chrome Started for pdfs.
+2021-11-16 09:29:58.289439: Chrome Started for pdfs.
+2021-11-16 09:30:06.147916: Chrome Started for pdfs.
+2021-11-16 09:30:16.698692: Round 1 Successful.
+2021-11-16 09:45:24.051430: Chrome Started for main page.
+2021-11-16 09:45:27.719999: Chrome Started for pdfs.
+2021-11-16 09:45:35.530068: Chrome Started for pdfs.
+2021-11-16 09:45:43.360776: Chrome Started for pdfs.
+2021-11-16 09:45:51.160853: Chrome Started for pdfs.
+2021-11-16 09:45:58.949637: Chrome Started for pdfs.
+2021-11-16 09:46:06.883458: Chrome Started for pdfs.
+2021-11-16 09:46:14.618445: Chrome Started for pdfs.
+2021-11-16 09:46:22.438379: Chrome Started for pdfs.
+2021-11-16 09:46:30.409609: Chrome Started for pdfs.
+2021-11-16 09:46:41.686557: Round 2 Successful.
+2021-11-16 10:01:48.369451: Chrome Started for main page.
+2021-11-16 10:01:51.854472: Chrome Started for pdfs.
+2021-11-16 10:01:59.623018: Chrome Started for pdfs.
+2021-11-16 10:02:07.518900: Chrome Started for pdfs.
+2021-11-16 10:02:15.411862: Chrome Started for pdfs.
+2021-11-16 10:02:23.231476: Chrome Started for pdfs.
+2021-11-16 10:02:31.274848: Chrome Started for pdfs.
+2021-11-16 10:02:39.134077: Chrome Started for pdfs.
+2021-11-16 10:02:46.941729: Chrome Started for pdfs.
+2021-11-16 10:02:54.797534: Chrome Started for pdfs.
+2021-11-16 10:03:06.028465: Round 3 Successful.
+2021-11-16 10:18:13.613578: Chrome Started for main page.
+2021-11-16 10:18:17.174549: Chrome Started for pdfs.
+2021-11-16 10:18:25.016418: Chrome Started for pdfs.
+2021-11-16 10:18:32.841389: Chrome Started for pdfs.
+2021-11-16 10:18:40.692972: Chrome Started for pdfs.
+2021-11-16 10:18:48.469000: Chrome Started for pdfs.
+2021-11-16 10:18:56.386372: Chrome Started for pdfs.
+2021-11-16 10:19:04.263641: Chrome Started for pdfs.
+2021-11-16 10:19:12.099808: Chrome Started for pdfs.
+2021-11-16 10:19:20.000984: Chrome Started for pdfs.
+2021-11-16 10:19:33.840226: Round 4 Successful.
+2021-11-16 10:34:42.393670: Chrome Started for main page.
+2021-11-16 10:34:44.977931: Chrome Started for pdfs.
+2021-11-16 10:34:52.848355: Chrome Started for pdfs.
+2021-11-16 10:35:00.663416: Chrome Started for pdfs.
+2021-11-16 10:35:08.496055: Chrome Started for pdfs.
+2021-11-16 10:35:16.482413: Chrome Started for pdfs.
+2021-11-16 10:35:24.287879: Chrome Started for pdfs.
+2021-11-16 10:35:32.198929: Chrome Started for pdfs.
+2021-11-16 10:35:40.144763: Chrome Started for pdfs.
+2021-11-16 10:35:47.983989: Chrome Started for pdfs.
+2021-11-16 10:35:59.392891: Round 5 Successful.
+2021-11-16 10:51:05.706730: Chrome Started for main page.
+2021-11-16 10:51:09.320229: Chrome Started for pdfs.
+2021-11-16 10:51:17.154001: Chrome Started for pdfs.
+2021-11-16 10:51:25.002912: Chrome Started for pdfs.
+2021-11-16 10:51:32.817276: Chrome Started for pdfs.
+2021-11-16 10:51:40.603876: Chrome Started for pdfs.
+2021-11-16 10:51:48.710523: Chrome Started for pdfs.
+2021-11-16 10:51:56.510583: Chrome Started for pdfs.
+2021-11-16 10:52:04.316570: Chrome Started for pdfs.
+2021-11-16 10:52:12.198536: Chrome Started for pdfs.
+2021-11-16 10:52:22.779303: Round 6 Successful.
+2021-11-16 11:07:28.706706: Chrome Started for main page.
+2021-11-16 11:07:32.829026: Chrome Started for pdfs.
+2021-11-16 11:07:40.713134: Chrome Started for pdfs.
+2021-11-16 11:07:48.496954: Chrome Started for pdfs.
+2021-11-16 11:07:56.334763: Chrome Started for pdfs.
+2021-11-16 11:08:04.275923: Chrome Started for pdfs.
+2021-11-16 11:08:12.157774: Chrome Started for pdfs.
+2021-11-16 11:08:19.933978: Chrome Started for pdfs.
+2021-11-16 11:08:28.013121: Chrome Started for pdfs.
+2021-11-16 11:08:35.848465: Chrome Started for pdfs.
+2021-11-16 11:08:46.268342: Round 7 Successful.
+2021-11-16 11:14:38.009781: Chrome Started for main page.
+2021-11-16 11:14:41.447076: Chrome Started for pdfs.
+2021-11-16 11:14:49.200248: Chrome Started for pdfs.
+2021-11-16 11:14:56.997082: Chrome Started for pdfs.
+2021-11-16 11:15:04.981643: Chrome Started for pdfs.
+2021-11-16 11:15:12.749965: Chrome Started for pdfs.
+2021-11-16 11:15:20.524807: Chrome Started for pdfs.
+2021-11-16 11:15:28.486047: Chrome Started for pdfs.
+2021-11-16 11:15:36.226936: Chrome Started for pdfs.
+2021-11-16 11:15:44.069051: Chrome Started for pdfs.
+2021-11-16 11:15:55.350581: Round 1 Successful.
+2021-11-16 11:44:02.870626: Chrome Started for main page.
+2021-11-16 11:44:06.326240: Chrome Started for pdfs.
+2021-11-16 11:44:14.174785: Chrome Started for pdfs.
+2021-11-16 11:44:22.031248: Chrome Started for pdfs.
+2021-11-16 11:44:29.843027: Chrome Started for pdfs.
+2021-11-16 11:44:37.693483: Chrome Started for pdfs.
+2021-11-16 11:44:45.623650: Chrome Started for pdfs.
+2021-11-16 11:44:53.516148: Chrome Started for pdfs.
+2021-11-16 11:45:01.407276: Chrome Started for pdfs.
+2021-11-16 11:45:09.326677: Chrome Started for pdfs.
+2021-11-16 11:45:20.411683: Round 1 Successful.
+2021-11-16 12:24:06.245939: Chrome Started for main page.
+2021-11-16 12:24:08.452225: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gxqtwbrgzd.pdf
+2021-11-16 12:24:09.919685: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gvcxt43jwd.pdf
+2021-11-16 12:24:11.417535: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gqtpbth55y.pdf
+2021-11-16 12:24:12.887622: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531glh513lwtf.pdf
+2021-11-16 12:24:14.341330: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gjgyzt97cz.pdf
+2021-11-16 12:24:14.796684: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531ggd5l0vzk5.pdf
+2021-11-16 12:24:16.264447: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gd99w983b0.pdf
+2021-11-16 12:24:17.847034: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gb93smq1kq.pdf
+2021-11-16 12:24:19.362034: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531g80t5r5gt4.pdf
+2021-11-16 12:24:19.362227: Round 1 Not Successful.
+2021-11-16 12:39:25.662360: Chrome Started for main page.
+2021-11-16 12:39:27.933439: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gxqtwbrgzd.pdf
+2021-11-16 12:39:29.445081: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gvcxt43jwd.pdf
+2021-11-16 12:39:30.962790: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gqtpbth55y.pdf
+2021-11-16 12:39:32.430261: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531glh513lwtf.pdf
+2021-11-16 12:39:33.943519: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gjgyzt97cz.pdf
+2021-11-16 12:39:35.414696: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531ggd5l0vzk5.pdf
+2021-11-16 12:39:36.944219: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gd99w983b0.pdf
+2021-11-16 12:39:38.435217: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gb93smq1kq.pdf
+2021-11-16 12:39:39.988877: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531g80t5r5gt4.pdf
+2021-11-16 12:39:39.989061: Round 2 Not Successful.
+2021-11-16 12:54:45.461020: Chrome Started for main page.
+2021-11-16 12:54:48.192256: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gxqtwbrgzd.pdf
+2021-11-16 12:54:49.650004: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gvcxt43jwd.pdf
+2021-11-16 12:54:51.115487: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gqtpbth55y.pdf
+2021-11-16 12:54:52.615011: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531glh513lwtf.pdf
+2021-11-16 12:54:53.128393: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gjgyzt97cz.pdf
+2021-11-16 12:54:54.582706: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531ggd5l0vzk5.pdf
+2021-11-16 12:54:56.038262: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gd99w983b0.pdf
+2021-11-16 12:54:56.502817: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531gb93smq1kq.pdf
+2021-11-16 12:54:57.967446: Omiiting Link as Already Exist /asxpdf/20211116/pdf/4531g80t5r5gt4.pdf
+2021-11-16 12:54:57.967624: Round 3 Not Successful.
+2021-11-16 13:10:03.349608: Chrome Started for main page.
+2021-11-16 13:10:03.725543: No Items Found.
+2021-11-16 13:25:09.808931: Chrome Started for main page.
+2021-11-16 13:25:09.894070: No Items Found.
+2021-11-16 13:40:16.815806: Chrome Started for main page.
+2021-11-16 13:40:17.026802: No Items Found.
+2021-11-16 13:55:23.581053: Chrome Started for main page.
+2021-11-16 13:55:23.629596: No Items Found.
+2021-11-16 14:10:29.447929: Chrome Started for main page.
+2021-11-16 14:10:29.607121: No Items Found.
+2021-11-16 14:25:36.072879: Chrome Started for main page.
+2021-11-16 14:25:36.119692: No Items Found.
+2021-11-16 14:40:43.877679: Chrome Started for main page.
+2021-11-16 14:40:43.989888: No Items Found.
+2021-11-16 14:55:49.356426: Chrome Started for main page.
+2021-11-16 14:55:49.693655: No Items Found.
+2021-11-16 15:10:57.207148: Chrome Started for main page.
+2021-11-16 15:10:57.315584: No Items Found.
+2021-11-16 15:26:04.844716: Chrome Started for main page.
+2021-11-16 15:26:04.893061: No Items Found.
+2021-11-16 15:41:11.867437: Chrome Started for main page.
+2021-11-16 15:41:11.992320: No Items Found.
+2021-11-16 15:56:18.269621: Chrome Started for main page.
+2021-11-16 15:56:18.350145: No Items Found.
+2021-11-16 16:11:24.187217: Chrome Started for main page.
+2021-11-16 16:11:24.515880: No Items Found.
+2021-11-16 16:26:32.104260: Chrome Started for main page.
+2021-11-16 16:26:32.151747: No Items Found.
+2021-11-16 16:41:38.397679: Chrome Started for main page.
+2021-11-16 16:41:40.807416: No Items Found.
+2021-11-16 16:56:47.161413: Chrome Started for main page.
+2021-11-16 16:56:47.234954: No Items Found.
+2021-11-16 17:11:52.785407: Chrome Started for main page.
+2021-11-16 17:11:53.194330: No Items Found.
+2021-11-16 17:26:59.423411: Chrome Started for main page.
+2021-11-16 17:26:59.759486: No Items Found.
+2021-11-16 17:42:05.905663: Chrome Started for main page.
+2021-11-16 17:42:06.170145: No Items Found.
+2021-11-16 17:57:12.360863: Chrome Started for main page.
+2021-11-16 17:57:12.492215: No Items Found.
+2021-11-16 18:12:19.759167: Chrome Started for main page.
+2021-11-16 18:12:19.841798: No Items Found.
+2021-11-16 18:27:25.890503: Chrome Started for main page.
+2021-11-16 18:27:26.410469: No Items Found.
+2021-11-16 18:42:32.307475: Chrome Started for main page.
+2021-11-16 18:42:32.709634: No Items Found.
+2021-11-16 18:57:38.827755: Chrome Started for main page.
+2021-11-16 18:57:39.116861: No Items Found.
+2021-11-16 19:12:45.462369: Chrome Started for main page.
+2021-11-16 19:12:45.668690: No Items Found.
+2021-11-16 19:27:52.294349: Chrome Started for main page.
+2021-11-16 19:27:52.570955: No Items Found.
+2021-11-16 19:42:58.797360: Chrome Started for main page.
+2021-11-16 19:42:58.847736: No Items Found.
+2021-11-16 19:58:05.371195: Chrome Started for main page.
+2021-11-16 19:58:05.742020: No Items Found.
+2021-11-16 20:13:11.297102: Chrome Started for main page.
+2021-11-16 20:13:11.753136: No Items Found.
+2021-11-16 20:28:17.219948: Chrome Started for main page.
+2021-11-16 20:28:17.637052: No Items Found.
+2021-11-16 20:43:23.649170: Chrome Started for main page.
+2021-11-16 20:43:23.963944: Round 34 Failed.list index out of range
+2021-11-16 20:58:29.467780: Chrome Started for main page.
+2021-11-16 20:58:29.878355: Round 35 Failed.list index out of range
+2021-11-16 21:13:37.325526: Chrome Started for main page.
+2021-11-16 21:13:37.442648: Round 36 Failed.list index out of range
+2021-11-16 21:28:45.377357: Chrome Started for main page.
+2021-11-16 21:28:49.566675: Chrome Started for pdfs.
+2021-11-16 21:28:57.506285: Chrome Started for pdfs.
+2021-11-16 21:29:05.367748: Chrome Started for pdfs.
+2021-11-16 21:29:13.270341: Chrome Started for pdfs.
+2021-11-16 21:29:21.206694: Chrome Started for pdfs.
+2021-11-16 21:29:29.078304: Chrome Started for pdfs.
+2021-11-16 21:29:36.956020: Chrome Started for pdfs.
+2021-11-16 21:29:43.918185: Chrome Started for pdfs.
+2021-11-16 21:29:51.790837: Chrome Started for pdfs.
+2021-11-16 21:30:08.126858: Round 37 Failed.arrays must all be same length
+2021-11-16 21:45:15.758079: Chrome Started for main page.
+2021-11-16 21:45:18.706424: Chrome Started for pdfs.
+2021-11-16 21:45:26.539678: Chrome Started for pdfs.
+2021-11-16 21:45:34.397791: Chrome Started for pdfs.
+2021-11-16 21:45:42.321562: Chrome Started for pdfs.
+2021-11-16 21:45:50.133055: Chrome Started for pdfs.
+2021-11-16 21:45:58.018890: Chrome Started for pdfs.
+2021-11-16 21:46:05.916773: Chrome Started for pdfs.
+2021-11-16 21:46:13.790602: Chrome Started for pdfs.
+2021-11-16 21:46:21.636054: Chrome Started for pdfs.
+2021-11-16 21:46:41.828967: Round 38 Successful.
+2021-11-16 22:01:50.331288: Chrome Started for main page.
+2021-11-16 22:01:53.307781: Chrome Started for pdfs.
+2021-11-16 22:02:01.197909: Chrome Started for pdfs.
+2021-11-16 22:02:09.011643: Chrome Started for pdfs.
+2021-11-16 22:02:16.926974: Chrome Started for pdfs.
+2021-11-16 22:02:24.801819: Chrome Started for pdfs.
+2021-11-16 22:02:32.660516: Chrome Started for pdfs.
+2021-11-16 22:02:40.571077: Chrome Started for pdfs.
+2021-11-16 22:02:48.450226: Chrome Started for pdfs.
+2021-11-16 22:02:56.350814: Chrome Started for pdfs.
+2021-11-16 22:03:04.190979: Round 39 Failed.arrays must all be same length
+2021-11-16 22:18:09.912941: Chrome Started for main page.
+2021-11-16 22:18:13.023371: Chrome Started for pdfs.
+2021-11-16 22:18:20.913554: Chrome Started for pdfs.
+2021-11-16 22:18:28.810535: Chrome Started for pdfs.
+2021-11-16 22:18:36.705391: Chrome Started for pdfs.
+2021-11-16 22:18:44.610226: Chrome Started for pdfs.
+2021-11-16 22:18:52.438823: Chrome Started for pdfs.
+2021-11-16 22:19:00.338989: Chrome Started for pdfs.
+2021-11-16 22:19:08.300082: Chrome Started for pdfs.
+2021-11-16 22:19:16.110450: Chrome Started for pdfs.
+2021-11-16 22:19:37.007889: Round 40 Successful.
+2021-11-16 22:34:43.234693: Chrome Started for main page.
+2021-11-16 22:34:46.499106: Chrome Started for pdfs.
+2021-11-16 22:34:54.397130: Chrome Started for pdfs.
+2021-11-16 22:35:02.218986: Chrome Started for pdfs.
+2021-11-16 22:35:10.134944: Chrome Started for pdfs.
+2021-11-16 22:35:18.011648: Chrome Started for pdfs.
+2021-11-16 22:35:25.829594: Chrome Started for pdfs.
+2021-11-16 22:35:33.737148: Chrome Started for pdfs.
+2021-11-16 22:35:41.605533: Chrome Started for pdfs.
+2021-11-16 22:35:49.494055: Chrome Started for pdfs.
+2021-11-16 22:36:16.930504: Round 41 Successful.
+2021-11-16 22:51:22.776257: Chrome Started for main page.
+2021-11-16 22:51:26.260994: Chrome Started for pdfs.
+2021-11-16 22:51:34.141594: Chrome Started for pdfs.
+2021-11-16 22:51:42.074722: Chrome Started for pdfs.
+2021-11-16 22:51:49.874504: Chrome Started for pdfs.
+2021-11-16 22:51:57.791212: Chrome Started for pdfs.
+2021-11-16 22:52:05.650472: Chrome Started for pdfs.
+2021-11-16 22:52:12.454021: Chrome Started for pdfs.
+2021-11-16 22:52:20.362520: Chrome Started for pdfs.
+2021-11-16 22:52:28.244256: Chrome Started for pdfs.
+2021-11-16 22:52:39.477477: Round 42 Successful.
+2021-11-16 23:07:47.066504: Chrome Started for main page.
+2021-11-16 23:07:50.167071: Chrome Started for pdfs.
+2021-11-16 23:07:58.069511: Chrome Started for pdfs.
+2021-11-16 23:08:05.945224: Chrome Started for pdfs.
+2021-11-16 23:08:13.817325: Chrome Started for pdfs.
+2021-11-16 23:08:21.683378: Chrome Started for pdfs.
+2021-11-16 23:08:29.573630: Chrome Started for pdfs.
+2021-11-16 23:08:37.423377: Chrome Started for pdfs.
+2021-11-16 23:08:45.289778: Chrome Started for pdfs.
+2021-11-16 23:08:53.199031: Chrome Started for pdfs.
+2021-11-16 23:09:03.659034: Round 43 Successful.
+2021-11-16 23:24:09.517471: Chrome Started for main page.
+2021-11-16 23:24:12.897945: Chrome Started for pdfs.
+2021-11-16 23:24:20.835501: Chrome Started for pdfs.
+2021-11-16 23:24:28.712253: Chrome Started for pdfs.
+2021-11-16 23:24:36.578940: Chrome Started for pdfs.
+2021-11-16 23:24:44.497687: Chrome Started for pdfs.
+2021-11-16 23:24:52.332821: Chrome Started for pdfs.
+2021-11-16 23:25:00.247104: Chrome Started for pdfs.
+2021-11-16 23:25:08.147268: Chrome Started for pdfs.
+2021-11-16 23:25:16.000668: Chrome Started for pdfs.
+2021-11-16 23:25:27.905641: Round 44 Successful.
+2021-11-16 23:40:34.793013: Chrome Started for main page.
+2021-11-16 23:40:37.924877: Chrome Started for pdfs.
+2021-11-16 23:40:45.723744: Chrome Started for pdfs.
+2021-11-16 23:40:53.626155: Chrome Started for pdfs.
+2021-11-16 23:41:01.524089: Chrome Started for pdfs.
+2021-11-16 23:41:09.469389: Chrome Started for pdfs.
+2021-11-16 23:41:17.340063: Chrome Started for pdfs.
+2021-11-16 23:41:25.242130: Chrome Started for pdfs.
+2021-11-16 23:41:33.159033: Chrome Started for pdfs.
+2021-11-16 23:41:41.079938: Chrome Started for pdfs.
+2021-11-16 23:41:51.359979: Round 45 Successful.
+2021-11-16 23:56:57.104003: Chrome Started for main page.
+2021-11-16 23:57:00.301702: Chrome Started for pdfs.
+2021-11-16 23:57:08.163966: Chrome Started for pdfs.
+2021-11-16 23:57:16.059451: Chrome Started for pdfs.
+2021-11-16 23:57:23.917277: Chrome Started for pdfs.
+2021-11-16 23:57:31.781167: Chrome Started for pdfs.
+2021-11-16 23:57:38.474174: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453276k1vhg6wj.pdf
+2021-11-16 23:57:40.047084: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453274lgv6z629.pdf
+2021-11-16 23:57:41.516409: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453272mx0fjgqx.pdf
+2021-11-16 23:57:41.985981: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453270pb45yl62.pdf
+2021-11-16 23:57:52.669933: Round 46 Successful.
+2021-11-17 00:12:58.261996: Chrome Started for main page.
+2021-11-17 00:13:02.011105: Chrome Started for pdfs.
+2021-11-17 00:13:09.911482: Chrome Started for pdfs.
+2021-11-17 00:13:17.782111: Chrome Started for pdfs.
+2021-11-17 00:13:25.640278: Chrome Started for pdfs.
+2021-11-17 00:13:32.529480: Chrome Started for pdfs.
+2021-11-17 00:13:40.412956: Chrome Started for pdfs.
+2021-11-17 00:13:48.227364: Chrome Started for pdfs.
+2021-11-17 00:13:54.878860: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45327lxcr303k0.pdf
+2021-11-17 00:13:56.356343: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45327j3wlnt2c9.pdf
+2021-11-17 00:14:02.189123: Round 47 Successful.
+2021-11-17 00:29:07.866028: Chrome Started for main page.
+2021-11-17 00:29:11.696388: Chrome Started for pdfs.
+2021-11-17 00:29:19.556011: Chrome Started for pdfs.
+2021-11-17 00:29:27.494241: Chrome Started for pdfs.
+2021-11-17 00:29:35.309347: Chrome Started for pdfs.
+2021-11-17 00:29:43.159262: Chrome Started for pdfs.
+2021-11-17 00:29:51.083552: Chrome Started for pdfs.
+2021-11-17 00:29:58.898950: Chrome Started for pdfs.
+2021-11-17 00:30:06.800619: Chrome Started for pdfs.
+2021-11-17 00:30:14.584849: Chrome Started for pdfs.
+2021-11-17 00:30:21.591847: [Exception] PDF is corrupted
+2021-11-17 00:30:25.841936: Round 48 Successful.
+2021-11-17 00:45:32.200989: Chrome Started for main page.
+2021-11-17 00:45:35.451912: Chrome Started for pdfs.
+2021-11-17 00:45:43.387106: Chrome Started for pdfs.
+2021-11-17 00:45:51.197215: Chrome Started for pdfs.
+2021-11-17 00:45:59.055437: Chrome Started for pdfs.
+2021-11-17 00:46:06.999265: Chrome Started for pdfs.
+2021-11-17 00:46:14.798071: Chrome Started for pdfs.
+2021-11-17 00:46:21.438345: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45328s6j93ntvk.pdf
+2021-11-17 00:46:22.921526: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45328py6tvkk24.pdf
+2021-11-17 00:46:24.395018: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45328my3nc70gy.pdf
+2021-11-17 00:46:33.445087: Round 49 Successful.
+2021-11-17 01:01:38.821378: Chrome Started for main page.
+2021-11-17 01:01:42.551051: Chrome Started for pdfs.
+2021-11-17 01:01:50.467739: Chrome Started for pdfs.
+2021-11-17 01:01:58.369189: Chrome Started for pdfs.
+2021-11-17 01:02:06.181379: Chrome Started for pdfs.
+2021-11-17 01:02:14.113758: Chrome Started for pdfs.
+2021-11-17 01:02:21.961864: Chrome Started for pdfs.
+2021-11-17 01:02:29.916289: Chrome Started for pdfs.
+2021-11-17 01:02:37.775195: Chrome Started for pdfs.
+2021-11-17 01:02:45.686035: Chrome Started for pdfs.
+2021-11-17 01:02:55.615561: Round 50 Successful.
+2021-11-17 01:18:00.848372: Chrome Started for main page.
+2021-11-17 01:18:04.289591: Chrome Started for pdfs.
+2021-11-17 01:18:12.187914: Chrome Started for pdfs.
+2021-11-17 01:18:20.088126: Chrome Started for pdfs.
+2021-11-17 01:18:27.955645: Chrome Started for pdfs.
+2021-11-17 01:18:34.869846: Chrome Started for pdfs.
+2021-11-17 01:18:42.810078: Chrome Started for pdfs.
+2021-11-17 01:18:50.619239: Chrome Started for pdfs.
+2021-11-17 01:18:58.484339: Chrome Started for pdfs.
+2021-11-17 01:19:06.355229: Chrome Started for pdfs.
+2021-11-17 01:19:17.589414: Round 51 Successful.
+2021-11-17 01:34:22.968682: Chrome Started for main page.
+2021-11-17 01:34:26.670644: Chrome Started for pdfs.
+2021-11-17 01:34:34.523918: Chrome Started for pdfs.
+2021-11-17 01:34:42.440729: Chrome Started for pdfs.
+2021-11-17 01:34:50.382301: Chrome Started for pdfs.
+2021-11-17 01:34:58.270272: Chrome Started for pdfs.
+2021-11-17 01:35:06.182700: Chrome Started for pdfs.
+2021-11-17 01:35:14.083476: Chrome Started for pdfs.
+2021-11-17 01:35:21.981079: Chrome Started for pdfs.
+2021-11-17 01:35:29.847572: Chrome Started for pdfs.
+2021-11-17 01:35:41.516479: Round 52 Successful.
+2021-11-17 01:50:48.682677: Chrome Started for main page.
+2021-11-17 01:50:51.915319: Chrome Started for pdfs.
+2021-11-17 01:50:59.813276: Chrome Started for pdfs.
+2021-11-17 01:51:07.736003: Chrome Started for pdfs.
+2021-11-17 01:51:15.622614: Chrome Started for pdfs.
+2021-11-17 01:51:23.421986: Chrome Started for pdfs.
+2021-11-17 01:51:31.297403: Chrome Started for pdfs.
+2021-11-17 01:51:39.231014: Chrome Started for pdfs.
+2021-11-17 01:51:47.097116: Chrome Started for pdfs.
+2021-11-17 01:51:54.956674: Chrome Started for pdfs.
+2021-11-17 01:52:05.470628: Round 53 Successful.
+2021-11-17 02:07:11.921903: Chrome Started for main page.
+2021-11-17 02:07:15.160799: Chrome Started for pdfs.
+2021-11-17 02:07:22.993839: Chrome Started for pdfs.
+2021-11-17 02:07:30.889130: Chrome Started for pdfs.
+2021-11-17 02:07:38.767831: Chrome Started for pdfs.
+2021-11-17 02:07:45.365195: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532dg22r3tyq0.pdf
+2021-11-17 02:07:46.897781: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532dck0y47xjt.pdf
+2021-11-17 02:07:48.378520: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532d98vps8lqx.pdf
+2021-11-17 02:07:49.849919: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532d70ggjrlky.pdf
+2021-11-17 02:07:51.367493: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532d4ytwxjptc.pdf
+2021-11-17 02:07:56.395191: Round 54 Successful.
+2021-11-17 02:23:04.173688: Chrome Started for main page.
+2021-11-17 02:23:07.500223: Chrome Started for pdfs.
+2021-11-17 02:23:15.327644: Chrome Started for pdfs.
+2021-11-17 02:23:23.184199: Chrome Started for pdfs.
+2021-11-17 02:23:31.073145: Chrome Started for pdfs.
+2021-11-17 02:23:38.912893: Chrome Started for pdfs.
+2021-11-17 02:23:46.844734: Chrome Started for pdfs.
+2021-11-17 02:23:54.753155: Chrome Started for pdfs.
+2021-11-17 02:24:02.711143: Chrome Started for pdfs.
+2021-11-17 02:24:10.581148: Chrome Started for pdfs.
+2021-11-17 02:24:21.853350: Round 55 Successful.
+2021-11-17 02:39:27.471112: Chrome Started for main page.
+2021-11-17 02:39:31.276722: Chrome Started for pdfs.
+2021-11-17 02:39:39.116288: Chrome Started for pdfs.
+2021-11-17 02:39:46.998644: Chrome Started for pdfs.
+2021-11-17 02:39:54.896109: Chrome Started for pdfs.
+2021-11-17 02:40:02.749699: Chrome Started for pdfs.
+2021-11-17 02:40:10.628758: Chrome Started for pdfs.
+2021-11-17 02:40:18.585624: Chrome Started for pdfs.
+2021-11-17 02:40:25.213892: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532g7mr9t8n0r.pdf
+2021-11-17 02:40:26.760606: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532g5mmvy5g00.pdf
+2021-11-17 02:40:31.325244: Round 56 Successful.
+2021-11-17 02:55:38.955085: Chrome Started for main page.
+2021-11-17 02:55:42.342655: Chrome Started for pdfs.
+2021-11-17 02:55:50.207132: Chrome Started for pdfs.
+2021-11-17 02:55:58.071228: Chrome Started for pdfs.
+2021-11-17 02:56:05.977783: Chrome Started for pdfs.
+2021-11-17 02:56:13.869486: Chrome Started for pdfs.
+2021-11-17 02:56:20.757733: Chrome Started for pdfs.
+2021-11-17 02:56:28.683031: Chrome Started for pdfs.
+2021-11-17 02:56:36.560080: Chrome Started for pdfs.
+2021-11-17 02:56:44.433983: Chrome Started for pdfs.
+2021-11-17 02:56:58.877195: Round 57 Successful.
+2021-11-17 03:12:05.710703: Chrome Started for main page.
+2021-11-17 03:12:09.036236: Chrome Started for pdfs.
+2021-11-17 03:12:16.905681: Chrome Started for pdfs.
+2021-11-17 03:12:24.799250: Chrome Started for pdfs.
+2021-11-17 03:12:32.613198: Chrome Started for pdfs.
+2021-11-17 03:12:40.543923: Chrome Started for pdfs.
+2021-11-17 03:12:48.347132: Chrome Started for pdfs.
+2021-11-17 03:12:56.200042: Chrome Started for pdfs.
+2021-11-17 03:13:04.136466: Chrome Started for pdfs.
+2021-11-17 03:13:12.035933: Chrome Started for pdfs.
+2021-11-17 03:13:27.391254: Round 58 Successful.
+2021-11-17 03:28:32.850912: Chrome Started for main page.
+2021-11-17 03:28:36.765978: Chrome Started for pdfs.
+2021-11-17 03:28:44.704246: Chrome Started for pdfs.
+2021-11-17 03:28:52.579993: Chrome Started for pdfs.
+2021-11-17 03:29:00.508852: Chrome Started for pdfs.
+2021-11-17 03:29:08.463192: Chrome Started for pdfs.
+2021-11-17 03:29:16.340409: Chrome Started for pdfs.
+2021-11-17 03:29:24.170540: Chrome Started for pdfs.
+2021-11-17 03:29:32.083572: Chrome Started for pdfs.
+2021-11-17 03:29:40.041003: Chrome Started for pdfs.
+2021-11-17 03:29:51.586449: Round 59 Successful.
+2021-11-17 03:44:57.339228: Chrome Started for main page.
+2021-11-17 03:45:00.889759: Chrome Started for pdfs.
+2021-11-17 03:45:08.795871: Chrome Started for pdfs.
+2021-11-17 03:45:16.627514: Chrome Started for pdfs.
+2021-11-17 03:45:24.481192: Chrome Started for pdfs.
+2021-11-17 03:45:32.406756: Chrome Started for pdfs.
+2021-11-17 03:45:40.211649: Chrome Started for pdfs.
+2021-11-17 03:45:48.069875: Chrome Started for pdfs.
+2021-11-17 03:45:55.988842: Chrome Started for pdfs.
+2021-11-17 03:46:03.819795: Chrome Started for pdfs.
+2021-11-17 03:46:15.015343: Round 60 Successful.
+2021-11-17 04:01:21.027013: Chrome Started for main page.
+2021-11-17 04:01:23.665329: Chrome Started for pdfs.
+2021-11-17 04:01:31.448960: Chrome Started for pdfs.
+2021-11-17 04:01:39.398000: Chrome Started for pdfs.
+2021-11-17 04:01:47.281651: Chrome Started for pdfs.
+2021-11-17 04:01:55.139236: Chrome Started for pdfs.
+2021-11-17 04:02:02.996043: Chrome Started for pdfs.
+2021-11-17 04:02:10.902075: Chrome Started for pdfs.
+2021-11-17 04:02:18.781181: Chrome Started for pdfs.
+2021-11-17 04:02:26.645519: Chrome Started for pdfs.
+2021-11-17 04:02:36.603092: Round 61 Successful.
+2021-11-17 04:17:44.992428: Chrome Started for main page.
+2021-11-17 04:17:48.271228: Chrome Started for pdfs.
+2021-11-17 04:17:56.169992: Chrome Started for pdfs.
+2021-11-17 04:18:04.066059: Chrome Started for pdfs.
+2021-11-17 04:18:11.955975: Chrome Started for pdfs.
+2021-11-17 04:18:19.810636: Chrome Started for pdfs.
+2021-11-17 04:18:27.741132: Chrome Started for pdfs.
+2021-11-17 04:18:35.637663: Chrome Started for pdfs.
+2021-11-17 04:18:43.555603: Chrome Started for pdfs.
+2021-11-17 04:18:51.475550: Chrome Started for pdfs.
+2021-11-17 04:18:57.655209: [Exception] PDF is corrupted
+2021-11-17 04:19:00.968831: Round 62 Successful.
+2021-11-17 04:34:07.154907: Chrome Started for main page.
+2021-11-17 04:34:10.485395: Chrome Started for pdfs.
+2021-11-17 04:34:18.288621: Chrome Started for pdfs.
+2021-11-17 04:34:26.205970: Chrome Started for pdfs.
+2021-11-17 04:34:34.087879: Chrome Started for pdfs.
+2021-11-17 04:34:42.000836: Chrome Started for pdfs.
+2021-11-17 04:34:49.850391: Chrome Started for pdfs.
+2021-11-17 04:34:57.650051: Chrome Started for pdfs.
+2021-11-17 04:35:05.517505: Chrome Started for pdfs.
+2021-11-17 04:35:13.421395: Chrome Started for pdfs.
+2021-11-17 04:35:25.971573: Round 63 Successful.
+2021-11-17 04:50:31.321999: Chrome Started for main page.
+2021-11-17 04:50:35.143041: Chrome Started for pdfs.
+2021-11-17 04:50:42.944504: Chrome Started for pdfs.
+2021-11-17 04:50:50.851074: Chrome Started for pdfs.
+2021-11-17 04:50:58.718455: Chrome Started for pdfs.
+2021-11-17 04:51:06.605616: Chrome Started for pdfs.
+2021-11-17 04:51:14.434048: Chrome Started for pdfs.
+2021-11-17 04:51:22.307283: Chrome Started for pdfs.
+2021-11-17 04:51:30.197757: Chrome Started for pdfs.
+2021-11-17 04:51:38.115202: Chrome Started for pdfs.
+2021-11-17 04:51:48.938361: Round 64 Successful.
+2021-11-17 05:06:54.596780: Chrome Started for main page.
+2021-11-17 05:06:58.172759: Chrome Started for pdfs.
+2021-11-17 05:07:06.050065: Chrome Started for pdfs.
+2021-11-17 05:07:13.926111: Chrome Started for pdfs.
+2021-11-17 05:07:21.853448: Chrome Started for pdfs.
+2021-11-17 05:07:29.670877: Chrome Started for pdfs.
+2021-11-17 05:07:37.595713: Chrome Started for pdfs.
+2021-11-17 05:07:45.395261: Chrome Started for pdfs.
+2021-11-17 05:07:53.253948: Chrome Started for pdfs.
+2021-11-17 05:08:01.145957: Chrome Started for pdfs.
+2021-11-17 05:08:07.365923: Round 65 Failed.arrays must all be same length
+2021-11-17 05:11:06.129160: Chrome Started for main page.
+2021-11-17 05:11:10.176485: Chrome Started for pdfs.
+2021-11-17 05:11:18.041837: Chrome Started for pdfs.
+2021-11-17 05:11:24.934182: Chrome Started for pdfs.
+2021-11-17 05:11:32.790644: Chrome Started for pdfs.
+2021-11-17 05:11:40.662045: Chrome Started for pdfs.
+2021-11-17 05:11:48.464843: Chrome Started for pdfs.
+2021-11-17 05:11:56.331342: Chrome Started for pdfs.
+2021-11-17 05:12:04.359824: Chrome Started for pdfs.
+2021-11-17 05:12:11.205533: Chrome Started for pdfs.
+2021-11-17 05:12:19.202900: Round 1 Failed.arrays must all be same length
+2021-11-17 05:19:37.058445: Chrome Started for main page.
+2021-11-17 05:19:40.485540: Chrome Started for pdfs.
+2021-11-17 05:19:48.390611: Chrome Started for pdfs.
+2021-11-17 05:19:56.333544: Chrome Started for pdfs.
+2021-11-17 05:20:04.183598: Chrome Started for pdfs.
+2021-11-17 05:20:12.111087: Chrome Started for pdfs.
+2021-11-17 05:20:19.987645: Chrome Started for pdfs.
+2021-11-17 05:20:27.791741: Chrome Started for pdfs.
+2021-11-17 05:20:35.655722: Chrome Started for pdfs.
+2021-11-17 05:20:43.566931: Chrome Started for pdfs.
+2021-11-17 05:20:49.819379: Round 1 Failed.arrays must all be same length
+2021-11-17 05:24:40.260850: Chrome Started for main page.
+2021-11-17 05:24:43.770960: Chrome Started for pdfs.
+2021-11-17 05:24:51.663384: Chrome Started for pdfs.
+2021-11-17 05:24:59.567779: Chrome Started for pdfs.
+2021-11-17 05:25:06.409753: Chrome Started for pdfs.
+2021-11-17 05:25:14.282329: Chrome Started for pdfs.
+2021-11-17 05:25:22.148243: Chrome Started for pdfs.
+2021-11-17 05:25:30.076506: Chrome Started for pdfs.
+2021-11-17 05:25:37.906135: Chrome Started for pdfs.
+2021-11-17 05:25:45.814461: Chrome Started for pdfs.
+2021-11-17 05:25:52.067356: Round 1 Failed.arrays must all be same length
+2021-11-17 05:31:16.379555: Chrome Started for main page.
+2021-11-17 05:31:20.352313: Chrome Started for pdfs.
+2021-11-17 05:31:28.200389: Chrome Started for pdfs.
+2021-11-17 05:31:36.059972: Chrome Started for pdfs.
+2021-11-17 05:31:44.001084: Chrome Started for pdfs.
+2021-11-17 05:31:51.863703: Chrome Started for pdfs.
+2021-11-17 05:31:59.770247: Chrome Started for pdfs.
+2021-11-17 05:32:07.650796: Chrome Started for pdfs.
+2021-11-17 05:32:15.594019: Chrome Started for pdfs.
+2021-11-17 05:32:23.403378: Chrome Started for pdfs.
+2021-11-17 05:32:29.583781: Round 1 Failed.arrays must all be same length
+2021-11-17 05:55:32.179910: Chrome Started for main page.
+2021-11-17 05:55:35.779992: Chrome Started for pdfs.
+2021-11-17 05:55:43.676542: Chrome Started for pdfs.
+2021-11-17 05:56:31.853306: Chrome Started for main page.
+2021-11-17 05:56:35.502645: Chrome Started for pdfs.
+2021-11-17 05:56:43.353713: Chrome Started for pdfs.
+2021-11-17 05:56:51.224729: Chrome Started for pdfs.
+2021-11-17 05:56:59.088017: Chrome Started for pdfs.
+2021-11-17 05:57:07.002236: Chrome Started for pdfs.
+2021-11-17 05:57:14.955223: Chrome Started for pdfs.
+2021-11-17 05:57:22.822405: Chrome Started for pdfs.
+2021-11-17 05:57:29.723962: Chrome Started for pdfs.
+2021-11-17 05:57:37.602605: Chrome Started for pdfs.
+2021-11-17 05:57:50.125673: Round 1 Successful.
+2021-11-17 06:01:04.706959: Chrome Started for main page.
+2021-11-17 06:01:08.162075: Chrome Started for pdfs.
+2021-11-17 06:01:15.966010: Chrome Started for pdfs.
+2021-11-17 06:01:23.863694: Chrome Started for pdfs.
+2021-11-17 06:01:30.588092: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532tjglz3r07f.pdf
+2021-11-17 06:01:32.082422: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532tggdzzj5t5.pdf
+2021-11-17 06:01:33.539901: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532tdg9kvxkjp.pdf
+2021-11-17 06:01:34.994573: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532tbc8454mc3.pdf
+2021-11-17 06:01:36.443014: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532t8cbl5cgrl.pdf
+2021-11-17 06:01:37.953618: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532t5x34844gw.pdf
+2021-11-17 06:01:39.419167: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532t3gm9vsjzd.pdf
+2021-11-17 06:01:40.879071: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532t1dt1zvfm8.pdf
+2021-11-17 06:01:42.348482: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532sz8rtht815.pdf
+2021-11-17 06:01:45.062966: Chrome Started for pdfs.
+2021-11-17 06:01:52.934474: Chrome Started for pdfs.
+2021-11-17 06:02:03.366346: Round 1 Successful.
+2021-11-17 06:12:09.274000: Chrome Started for main page.
+2021-11-17 06:12:13.116501: Chrome Started for pdfs.
+2021-11-17 06:12:21.024007: Chrome Started for pdfs.
+2021-11-17 06:12:28.838989: Chrome Started for pdfs.
+2021-11-17 06:12:36.726614: Chrome Started for pdfs.
+2021-11-17 06:12:44.668489: Chrome Started for pdfs.
+2021-11-17 06:12:51.259461: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532tqtw9f8yz2.pdf
+2021-11-17 06:12:52.736733: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532tntlfk2prj.pdf
+2021-11-17 06:12:54.196942: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532tln4ltmqy8.pdf
+2021-11-17 06:12:56.901522: Chrome Started for pdfs.
+2021-11-17 06:13:04.712665: Chrome Started for pdfs.
+2021-11-17 06:13:12.621352: Chrome Started for pdfs.
+2021-11-17 06:13:20.516520: Chrome Started for pdfs.
+2021-11-17 06:13:28.380358: Chrome Started for pdfs.
+2021-11-17 06:13:36.331322: Chrome Started for pdfs.
+2021-11-17 06:13:47.441495: Round 2 Successful.
+2021-11-17 06:23:53.805638: Chrome Started for main page.
+2021-11-17 06:23:57.505067: Chrome Started for pdfs.
+2021-11-17 06:24:05.313927: Chrome Started for pdfs.
+2021-11-17 06:24:13.202692: Chrome Started for pdfs.
+2021-11-17 06:24:21.125523: Chrome Started for pdfs.
+2021-11-17 06:24:29.059703: Chrome Started for pdfs.
+2021-11-17 06:24:36.934049: Chrome Started for pdfs.
+2021-11-17 06:24:44.803734: Chrome Started for pdfs.
+2021-11-17 06:24:52.683079: Chrome Started for pdfs.
+2021-11-17 06:25:00.540630: Chrome Started for pdfs.
+2021-11-17 06:25:07.197690: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532v3hp4z94yy.pdf
+2021-11-17 06:25:08.671141: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532v0qdzjjgql.pdf
+2021-11-17 06:25:10.233803: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532tyq6jmfcpv.pdf
+2021-11-17 06:25:11.749055: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532twpxwdxzlv.pdf
+2021-11-17 06:25:13.214571: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532tt8g395mgw.pdf
+2021-11-17 06:25:19.971768: Round 3 Successful.
+2021-11-17 06:35:26.390885: Chrome Started for main page.
+2021-11-17 06:35:30.023612: Chrome Started for pdfs.
+2021-11-17 06:35:38.128963: Chrome Started for pdfs.
+2021-11-17 06:35:46.010818: Chrome Started for pdfs.
+2021-11-17 06:35:53.832687: Chrome Started for pdfs.
+2021-11-17 06:36:01.757827: Chrome Started for pdfs.
+2021-11-17 06:36:09.668029: Chrome Started for pdfs.
+2021-11-17 06:36:17.544168: Chrome Started for pdfs.
+2021-11-17 06:36:25.423107: Chrome Started for pdfs.
+2021-11-17 06:36:33.358610: Chrome Started for pdfs.
+2021-11-17 06:36:41.324998: Chrome Started for pdfs.
+2021-11-17 06:36:49.192517: Chrome Started for pdfs.
+2021-11-17 06:36:57.108146: Chrome Started for pdfs.
+2021-11-17 06:37:05.035438: Chrome Started for pdfs.
+2021-11-17 06:37:11.705528: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532vqf50xr6wv.pdf
+2021-11-17 06:37:22.814759: Round 4 Successful.
+2021-11-17 06:47:30.303320: Chrome Started for main page.
+2021-11-17 06:47:33.792463: Chrome Started for pdfs.
+2021-11-17 06:47:41.748186: Chrome Started for pdfs.
+2021-11-17 06:47:49.598484: Chrome Started for pdfs.
+2021-11-17 06:47:57.497146: Chrome Started for pdfs.
+2021-11-17 06:48:04.190888: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532wlglzzwpq2.pdf
+2021-11-17 06:48:05.678513: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532wjghyrtd9l.pdf
+2021-11-17 06:48:07.203257: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532wgcmgxt4qp.pdf
+2021-11-17 06:48:08.656240: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532wd5w1twthz.pdf
+2021-11-17 06:48:10.171935: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532wb32tfz39k.pdf
+2021-11-17 06:48:11.641943: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532w82wxw3f29.pdf
+2021-11-17 06:48:13.112837: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532w5xc7nbmll.pdf
+2021-11-17 06:48:14.681044: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532w3xfn63bvs.pdf
+2021-11-17 06:48:16.165534: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532w1t1z0fcg0.pdf
+2021-11-17 06:48:17.715308: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532vzty16d9dz.pdf
+2021-11-17 06:48:23.168572: Round 5 Successful.
+2021-11-17 06:58:29.052874: Chrome Started for main page.
+2021-11-17 06:58:32.723731: Chrome Started for pdfs.
+2021-11-17 06:58:40.643957: Chrome Started for pdfs.
+2021-11-17 06:58:48.553202: Chrome Started for pdfs.
+2021-11-17 06:58:56.454817: Chrome Started for pdfs.
+2021-11-17 06:59:04.309076: Chrome Started for pdfs.
+2021-11-17 06:59:11.204866: Chrome Started for pdfs.
+2021-11-17 06:59:19.090601: Chrome Started for pdfs.
+2021-11-17 06:59:26.906850: Chrome Started for pdfs.
+2021-11-17 06:59:34.805594: Chrome Started for pdfs.
+2021-11-17 06:59:41.457439: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532wwft98dd4w.pdf
+2021-11-17 06:59:42.962074: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532wt8888vzbb.pdf
+2021-11-17 06:59:44.446239: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532wr0435lxmg.pdf
+2021-11-17 06:59:46.003583: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532wnx8ddp2fw.pdf
+2021-11-17 06:59:48.660073: Chrome Started for pdfs.
+2021-11-17 07:00:00.477179: Round 6 Successful.
+2021-11-17 07:20:27.405411: Chrome Started for main page.
+2021-11-17 07:20:31.201819: Chrome Started for pdfs.
+2021-11-17 07:20:39.185231: Chrome Started for pdfs.
+2021-11-17 07:20:46.042857: Chrome Started for pdfs.
+2021-11-17 07:20:53.887569: Chrome Started for pdfs.
+2021-11-17 07:21:01.815677: Chrome Started for pdfs.
+2021-11-17 07:21:09.698840: Chrome Started for pdfs.
+2021-11-17 07:21:17.513695: Chrome Started for pdfs.
+2021-11-17 07:21:25.431992: Chrome Started for pdfs.
+2021-11-17 07:21:33.362259: Chrome Started for pdfs.
+2021-11-17 07:21:41.157582: Chrome Started for pdfs.
+2021-11-17 07:21:49.065121: Chrome Started for pdfs.
+2021-11-17 07:21:56.984781: Chrome Started for pdfs.
+2021-11-17 07:22:04.778864: Chrome Started for pdfs.
+2021-11-17 07:22:12.686358: Chrome Started for pdfs.
+2021-11-17 07:22:18.026818: [Exception] PDF is corrupted
+2021-11-17 07:22:18.242972: [Exception] PDF is corrupted
+2021-11-17 07:22:18.398052: [Exception] PDF is corrupted
+2021-11-17 07:22:18.666677: [Exception] PDF is corrupted
+2021-11-17 07:22:18.738068: [Exception] PDF is corrupted
+2021-11-17 07:22:18.832823: [Exception] PDF is corrupted
+2021-11-17 07:22:18.988630: [Exception] PDF is corrupted
+2021-11-17 07:22:19.048639: [Exception] PDF is corrupted
+2021-11-17 07:22:19.186886: [Exception] PDF is corrupted
+2021-11-17 07:22:19.282737: [Exception] PDF is corrupted
+2021-11-17 07:22:19.359431: [Exception] PDF is corrupted
+2021-11-17 07:22:19.436486: [Exception] PDF is corrupted
+2021-11-17 07:22:19.513188: [Exception] PDF is corrupted
+2021-11-17 07:22:19.613643: [Exception] PDF is corrupted
+2021-11-17 07:22:24.313442: Round 1 Successful.
+2021-11-17 07:24:22.795666: Chrome Started for main page.
+2021-11-17 07:24:26.422406: Chrome Started for pdfs.
+2021-11-17 07:24:34.207421: Chrome Started for pdfs.
+2021-11-17 07:24:39.464210: [Exception] PDF is corrupted'dict' object has no attribute 'replace'
+2021-11-17 07:24:39.553312: [Exception] PDF is corrupted'dict' object has no attribute 'replace'
+2021-11-17 07:24:43.114802: Round 1 Successful.
+2021-11-17 07:25:52.170998: Chrome Started for main page.
+2021-11-17 07:25:54.440053: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532yxmw8d02rq.pdf
+2021-11-17 07:25:55.912911: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532yv3qnjj80m.pdf
+2021-11-17 07:25:55.913104: Round 1 Not Successful.
+2021-11-17 07:26:50.471034: Chrome Started for main page.
+2021-11-17 07:26:53.029396: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532yxmw8d02rq.pdf
+2021-11-17 07:26:54.479045: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532yv3qnjj80m.pdf
+2021-11-17 07:26:54.479250: Round 1 Not Successful.
+2021-11-17 07:28:04.709150: Chrome Started for main page.
+2021-11-17 07:28:08.451459: Chrome Started for pdfs.
+2021-11-17 07:28:16.302867: Chrome Started for pdfs.
+2021-11-17 07:28:25.894963: Round 1 Successful.
+2021-11-17 07:31:51.475291: Chrome Started for main page.
+2021-11-17 07:31:55.212306: Chrome Started for pdfs.
+2021-11-17 07:32:01.908863: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532yxmw8d02rq.pdf
+2021-11-17 07:32:06.912026: Round 1 Successful.
+2021-11-17 07:35:18.852359: Chrome Started for main page.
+2021-11-17 07:35:22.733004: Chrome Started for pdfs.
+2021-11-17 07:35:30.627956: Chrome Started for pdfs.
+2021-11-17 07:35:38.512432: Chrome Started for pdfs.
+2021-11-17 07:35:46.437371: Chrome Started for pdfs.
+2021-11-17 07:35:53.093620: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532z0lhbyybgp.pdf
+2021-11-17 07:35:55.856351: Chrome Started for pdfs.
+2021-11-17 07:36:03.822334: Chrome Started for pdfs.
+2021-11-17 07:36:11.681237: Chrome Started for pdfs.
+2021-11-17 07:36:19.517649: Chrome Started for pdfs.
+2021-11-17 07:36:27.412808: Chrome Started for pdfs.
+2021-11-17 07:36:35.216500: Chrome Started for pdfs.
+2021-11-17 07:36:43.114022: Chrome Started for pdfs.
+2021-11-17 07:36:51.013328: Chrome Started for pdfs.
+2021-11-17 07:36:58.916934: Chrome Started for pdfs.
+2021-11-17 07:37:11.382910: Round 1 Successful.
+2021-11-17 07:47:17.678883: Chrome Started for main page.
+2021-11-17 07:47:21.197376: Chrome Started for pdfs.
+2021-11-17 07:47:29.128379: Chrome Started for pdfs.
+2021-11-17 07:47:37.078078: Chrome Started for pdfs.
+2021-11-17 07:47:44.869497: Chrome Started for pdfs.
+2021-11-17 07:47:51.551389: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532z91s45fhq2.pdf
+2021-11-17 07:47:53.066661: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532z6ysnqr6js.pdf
+2021-11-17 07:47:54.525857: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532z4yp4p7n95.pdf
+2021-11-17 07:47:55.987437: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532z2pc7785ms.pdf
+2021-11-17 07:47:58.655562: Chrome Started for pdfs.
+2021-11-17 07:48:05.306218: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532yxmw8d02rq.pdf
+2021-11-17 07:48:06.855709: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532yv3qnjj80m.pdf
+2021-11-17 07:48:08.327074: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532yrp4whqw3k.pdf
+2021-11-17 07:48:08.801982: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532ypl8w7p7hx.pdf
+2021-11-17 07:48:10.288850: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532ymkxl4sl21.pdf
+2021-11-17 07:48:14.340943: Round 2 Successful.
+2021-11-17 08:05:16.600924: Chrome Started for main page.
+2021-11-17 08:05:20.196394: Chrome Started for pdfs.
+2021-11-17 08:05:28.117510: Chrome Started for pdfs.
+2021-11-17 08:05:35.939623: Chrome Started for pdfs.
+2021-11-17 08:05:43.777886: Chrome Started for pdfs.
+2021-11-17 08:05:51.647548: Chrome Started for pdfs.
+2021-11-17 08:05:59.490045: Chrome Started for pdfs.
+2021-11-17 08:06:07.369135: Chrome Started for pdfs.
+2021-11-17 08:06:14.072772: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532zkryn04y2w.pdf
+2021-11-17 08:06:15.586812: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532zhrnws80vr.pdf
+2021-11-17 08:06:17.122848: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532zfrh009hqq.pdf
+2021-11-17 08:06:18.628447: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532zc9x2vvdr3.pdf
+2021-11-17 08:06:21.298091: Chrome Started for pdfs.
+2021-11-17 08:06:29.099970: Chrome Started for pdfs.
+2021-11-17 08:06:36.982736: Chrome Started for pdfs.
+2021-11-17 08:06:48.671284: Round 1 Successful.
+2021-11-17 08:13:54.653567: Chrome Started for main page.
+2021-11-17 08:13:58.630778: Chrome Started for pdfs.
+2021-11-17 08:14:06.480252: Chrome Started for pdfs.
+2021-11-17 08:14:14.402329: Chrome Started for pdfs.
+2021-11-17 08:14:22.226535: Chrome Started for pdfs.
+2021-11-17 08:14:28.948180: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533048cmzc02z.pdf
+2021-11-17 08:14:30.414615: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330282lc2trr.pdf
+2021-11-17 08:14:31.881257: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533007wn4w1lp.pdf
+2021-11-17 08:14:33.342655: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532zy29ddqbw8.pdf
+2021-11-17 08:14:34.820373: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532zvt5h08w9k.pdf
+2021-11-17 08:14:36.330042: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532zrvk8683m0.pdf
+2021-11-17 08:14:37.809787: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4532zp2gcnk7j2.pdf
+2021-11-17 08:14:40.561068: Chrome Started for pdfs.
+2021-11-17 08:14:48.435857: Chrome Started for pdfs.
+2021-11-17 08:14:56.378369: Chrome Started for pdfs.
+2021-11-17 08:15:07.338754: Round 1 Successful.
+2021-11-17 08:22:27.337555: Chrome Started for main page.
+2021-11-17 08:22:30.973195: Chrome Started for pdfs.
+2021-11-17 08:22:38.789588: Chrome Started for pdfs.
+2021-11-17 08:22:46.661101: Chrome Started for pdfs.
+2021-11-17 08:22:54.658299: Chrome Started for pdfs.
+2021-11-17 08:23:02.486834: Chrome Started for pdfs.
+2021-11-17 08:23:10.397448: Chrome Started for pdfs.
+2021-11-17 08:23:18.315736: Chrome Started for pdfs.
+2021-11-17 08:23:26.118964: Chrome Started for pdfs.
+2021-11-17 08:23:34.027425: Chrome Started for pdfs.
+2021-11-17 08:23:41.946766: Chrome Started for pdfs.
+2021-11-17 08:23:49.899811: Chrome Started for pdfs.
+2021-11-17 08:23:57.769889: Chrome Started for pdfs.
+2021-11-17 08:24:05.683832: Chrome Started for pdfs.
+2021-11-17 08:24:13.638456: Chrome Started for pdfs.
+2021-11-17 08:24:23.508566: Round 1 Successful.
+2021-11-17 08:36:27.686195: Chrome Started for main page.
+2021-11-17 08:36:31.426303: Chrome Started for pdfs.
+2021-11-17 08:36:39.335234: Chrome Started for pdfs.
+2021-11-17 08:36:47.234364: Chrome Started for pdfs.
+2021-11-17 08:36:54.093941: Chrome Started for pdfs.
+2021-11-17 08:37:01.956960: Chrome Started for pdfs.
+2021-11-17 08:37:09.824919: Chrome Started for pdfs.
+2021-11-17 08:37:17.696210: Chrome Started for pdfs.
+2021-11-17 08:37:25.576384: Chrome Started for pdfs.
+2021-11-17 08:37:33.534500: Chrome Started for pdfs.
+2021-11-17 08:37:41.405658: Chrome Started for pdfs.
+2021-11-17 08:37:49.250127: Chrome Started for pdfs.
+2021-11-17 08:37:57.134125: Chrome Started for pdfs.
+2021-11-17 08:38:05.077717: Chrome Started for pdfs.
+2021-11-17 08:38:12.933959: Chrome Started for pdfs.
+2021-11-17 08:38:23.716648: Round 1 Successful.
+2021-11-17 09:01:06.054584: Chrome Started for main page.
+2021-11-17 09:01:09.601816: Chrome Started for pdfs.
+2021-11-17 09:01:17.428324: Chrome Started for pdfs.
+2021-11-17 09:01:25.313385: Chrome Started for pdfs.
+2021-11-17 09:01:33.164644: Chrome Started for pdfs.
+2021-11-17 09:01:41.114026: Chrome Started for pdfs.
+2021-11-17 09:01:47.731723: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453317509fh266.pdf
+2021-11-17 09:01:49.240598: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453314zk8yp8xf.pdf
+2021-11-17 09:01:50.739239: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453312z8hdjg47.pdf
+2021-11-17 09:01:52.278403: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533103f50vpyk.pdf
+2021-11-17 09:01:53.738429: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330y36jlhkrz.pdf
+2021-11-17 09:01:55.199051: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330w2wv6cx37.pdf
+2021-11-17 09:01:56.658236: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330t3qksmkbk.pdf
+2021-11-17 09:01:58.167879: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330r54prfzmf.pdf
+2021-11-17 09:01:59.634872: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330p5zpdj235.pdf
+2021-11-17 09:02:04.056410: Round 1 Successful.
+2021-11-17 09:05:33.657530: Chrome Started for main page.
+2021-11-17 09:05:36.255780: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331p2h7qh4f3.pdf
+2021-11-17 09:05:37.720682: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331l9d5d32dh.pdf
+2021-11-17 09:05:39.178399: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331gd3m03cx0.pdf
+2021-11-17 09:05:40.645917: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331d6tzsq4lt.pdf
+2021-11-17 09:05:42.205236: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331b11zt7fdp.pdf
+2021-11-17 09:05:44.931724: Chrome Started for pdfs.
+2021-11-17 09:05:52.771746: Chrome Started for pdfs.
+2021-11-17 09:06:00.632011: Chrome Started for pdfs.
+2021-11-17 09:06:08.549616: Chrome Started for pdfs.
+2021-11-17 09:06:16.363677: Chrome Started for pdfs.
+2021-11-17 09:06:24.251618: Chrome Started for pdfs.
+2021-11-17 09:06:32.102249: Chrome Started for pdfs.
+2021-11-17 09:06:39.947428: Chrome Started for pdfs.
+2021-11-17 09:06:47.793617: Chrome Started for pdfs.
+2021-11-17 09:06:57.287940: Round 1 Successful.
+2021-11-17 09:56:55.064792: Chrome Started for main page.
+2021-11-17 09:56:58.761753: Chrome Started for pdfs.
+2021-11-17 09:57:06.603049: Chrome Started for pdfs.
+2021-11-17 09:57:14.499430: Chrome Started for pdfs.
+2021-11-17 09:57:22.429844: Chrome Started for pdfs.
+2021-11-17 09:57:30.259752: Chrome Started for pdfs.
+2021-11-17 09:57:36.942377: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453317509fh266.pdf
+2021-11-17 09:57:38.457901: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453314zk8yp8xf.pdf
+2021-11-17 09:57:39.916660: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453312z8hdjg47.pdf
+2021-11-17 09:57:41.383112: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533103f50vpyk.pdf
+2021-11-17 09:57:42.837944: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330y36jlhkrz.pdf
+2021-11-17 09:57:44.293437: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330w2wv6cx37.pdf
+2021-11-17 09:57:45.798727: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330t3qksmkbk.pdf
+2021-11-17 09:57:47.304778: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330r54prfzmf.pdf
+2021-11-17 09:57:48.761527: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330p5zpdj235.pdf
+2021-11-17 09:57:54.738339: Round 1 Successful.
+2021-11-17 10:05:17.448938: Chrome Started for main page.
+2021-11-17 10:05:19.833104: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331p2h7qh4f3.pdf
+2021-11-17 10:05:21.309577: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331l9d5d32dh.pdf
+2021-11-17 10:05:22.877512: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331gd3m03cx0.pdf
+2021-11-17 10:05:24.405164: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331d6tzsq4lt.pdf
+2021-11-17 10:05:25.924950: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331b11zt7fdp.pdf
+2021-11-17 10:05:28.639173: Chrome Started for pdfs.
+2021-11-17 10:05:36.555450: Chrome Started for pdfs.
+2021-11-17 10:05:44.454564: Chrome Started for pdfs.
+2021-11-17 10:05:52.377300: Chrome Started for pdfs.
+2021-11-17 10:06:00.214668: Chrome Started for pdfs.
+2021-11-17 10:06:08.085662: Chrome Started for pdfs.
+2021-11-17 10:06:16.012888: Chrome Started for pdfs.
+2021-11-17 10:06:23.936505: Chrome Started for pdfs.
+2021-11-17 10:06:31.870736: Chrome Started for pdfs.
+2021-11-17 10:06:58.714626: Round 1 Successful.
+2021-11-17 10:19:40.809711: Chrome Started for main page.
+2021-11-17 10:19:45.074914: Chrome Started for pdfs.
+2021-11-17 10:19:53.058725: Chrome Started for pdfs.
+2021-11-17 10:20:00.909455: Chrome Started for pdfs.
+2021-11-17 10:20:08.820469: Chrome Started for pdfs.
+2021-11-17 10:20:16.734015: Chrome Started for pdfs.
+2021-11-17 10:20:24.604451: Chrome Started for pdfs.
+2021-11-17 10:20:32.475185: Chrome Started for pdfs.
+2021-11-17 10:20:40.404950: Chrome Started for pdfs.
+2021-11-17 10:20:48.333187: Chrome Started for pdfs.
+2021-11-17 10:20:56.213698: Chrome Started for pdfs.
+2021-11-17 10:21:04.107423: Chrome Started for pdfs.
+2021-11-17 10:21:12.022526: Chrome Started for pdfs.
+2021-11-17 10:21:19.871712: Chrome Started for pdfs.
+2021-11-17 10:21:27.784835: Chrome Started for pdfs.
+2021-11-17 10:22:07.135838: Round 1 Successful.
+2021-11-17 10:34:02.086050: Chrome Started for main page.
+2021-11-17 10:34:06.291021: Chrome Started for pdfs.
+2021-11-17 10:34:14.169866: Chrome Started for pdfs.
+2021-11-17 10:34:22.024922: Chrome Started for pdfs.
+2021-11-17 10:34:29.936825: Chrome Started for pdfs.
+2021-11-17 10:34:37.914136: Chrome Started for pdfs.
+2021-11-17 10:34:45.780754: Chrome Started for pdfs.
+2021-11-17 10:34:53.639121: Chrome Started for pdfs.
+2021-11-17 10:35:01.527302: Chrome Started for pdfs.
+2021-11-17 10:35:09.498185: Chrome Started for pdfs.
+2021-11-17 10:35:17.399485: Chrome Started for pdfs.
+2021-11-17 10:35:25.332092: Chrome Started for pdfs.
+2021-11-17 10:35:33.270701: Chrome Started for pdfs.
+2021-11-17 10:35:41.138442: Chrome Started for pdfs.
+2021-11-17 10:35:49.022768: Chrome Started for pdfs.
+2021-11-17 10:36:02.938985: Round 1 Successful.
+2021-11-17 11:17:01.347066: Chrome Started for main page.
+2021-11-17 11:17:05.547919: Chrome Started for pdfs.
+2021-11-17 11:17:13.353297: Chrome Started for pdfs.
+2021-11-17 11:17:21.268309: Chrome Started for pdfs.
+2021-11-17 11:17:29.215780: Chrome Started for pdfs.
+2021-11-17 11:17:37.076923: Chrome Started for pdfs.
+2021-11-17 11:17:44.979340: Chrome Started for pdfs.
+2021-11-17 11:17:52.901263: Chrome Started for pdfs.
+2021-11-17 11:18:00.794882: Chrome Started for pdfs.
+2021-11-17 11:18:07.635275: Chrome Started for pdfs.
+2021-11-17 11:18:15.489814: Chrome Started for pdfs.
+2021-11-17 11:18:23.398987: Chrome Started for pdfs.
+2021-11-17 11:18:31.214826: Chrome Started for pdfs.
+2021-11-17 11:18:39.123370: Chrome Started for pdfs.
+2021-11-17 11:18:47.026001: Chrome Started for pdfs.
+2021-11-17 11:18:59.956869: Round 1 Successful.
+2021-11-17 11:29:06.328228: Chrome Started for main page.
+2021-11-17 11:29:08.733887: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331p2h7qh4f3.pdf
+2021-11-17 11:29:10.268083: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331l9d5d32dh.pdf
+2021-11-17 11:29:11.735219: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331gd3m03cx0.pdf
+2021-11-17 11:29:13.263162: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331d6tzsq4lt.pdf
+2021-11-17 11:29:14.831242: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331b11zt7fdp.pdf
+2021-11-17 11:29:16.298399: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453317509fh266.pdf
+2021-11-17 11:29:16.762942: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453314zk8yp8xf.pdf
+2021-11-17 11:29:18.237032: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453312z8hdjg47.pdf
+2021-11-17 11:29:19.713556: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533103f50vpyk.pdf
+2021-11-17 11:29:21.225138: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330y36jlhkrz.pdf
+2021-11-17 11:29:22.707236: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330w2wv6cx37.pdf
+2021-11-17 11:29:24.208219: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330t3qksmkbk.pdf
+2021-11-17 11:29:25.730138: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330r54prfzmf.pdf
+2021-11-17 11:29:27.207347: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330p5zpdj235.pdf
+2021-11-17 11:29:27.207669: Round 2 Not Successful.
+2021-11-17 11:39:32.685062: Chrome Started for main page.
+2021-11-17 11:39:35.692214: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331p2h7qh4f3.pdf
+2021-11-17 11:39:37.158036: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331l9d5d32dh.pdf
+2021-11-17 11:39:38.665907: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331gd3m03cx0.pdf
+2021-11-17 11:39:40.132466: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331d6tzsq4lt.pdf
+2021-11-17 11:39:41.689921: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331b11zt7fdp.pdf
+2021-11-17 11:39:43.178625: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453317509fh266.pdf
+2021-11-17 11:39:43.640145: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453314zk8yp8xf.pdf
+2021-11-17 11:39:45.150563: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453312z8hdjg47.pdf
+2021-11-17 11:39:46.658104: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533103f50vpyk.pdf
+2021-11-17 11:39:48.176995: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330y36jlhkrz.pdf
+2021-11-17 11:39:49.736025: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330w2wv6cx37.pdf
+2021-11-17 11:39:51.215559: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330t3qksmkbk.pdf
+2021-11-17 11:39:52.678428: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330r54prfzmf.pdf
+2021-11-17 11:39:54.184889: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330p5zpdj235.pdf
+2021-11-17 11:39:54.185203: Round 3 Not Successful.
+2021-11-17 11:50:00.352486: Chrome Started for main page.
+2021-11-17 11:50:03.244032: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331p2h7qh4f3.pdf
+2021-11-17 11:50:05.028223: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331l9d5d32dh.pdf
+2021-11-17 11:50:06.502818: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331gd3m03cx0.pdf
+2021-11-17 11:50:07.017918: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331d6tzsq4lt.pdf
+2021-11-17 11:50:08.501300: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331b11zt7fdp.pdf
+2021-11-17 11:50:10.038260: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453317509fh266.pdf
+2021-11-17 11:50:11.548848: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453314zk8yp8xf.pdf
+2021-11-17 11:50:13.057733: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453312z8hdjg47.pdf
+2021-11-17 11:50:14.515894: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533103f50vpyk.pdf
+2021-11-17 11:50:15.976399: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330y36jlhkrz.pdf
+2021-11-17 11:50:17.539480: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330w2wv6cx37.pdf
+2021-11-17 11:50:19.024601: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330t3qksmkbk.pdf
+2021-11-17 11:50:20.534086: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330r54prfzmf.pdf
+2021-11-17 11:50:21.999989: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330p5zpdj235.pdf
+2021-11-17 11:50:22.000180: Round 4 Not Successful.
+2021-11-17 12:00:29.486921: Chrome Started for main page.
+2021-11-17 12:00:31.958459: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331p2h7qh4f3.pdf
+2021-11-17 12:00:33.429957: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331l9d5d32dh.pdf
+2021-11-17 12:00:34.947365: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331gd3m03cx0.pdf
+2021-11-17 12:00:36.418656: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331d6tzsq4lt.pdf
+2021-11-17 12:00:37.927105: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331b11zt7fdp.pdf
+2021-11-17 12:00:39.396167: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453317509fh266.pdf
+2021-11-17 12:00:40.920763: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453314zk8yp8xf.pdf
+2021-11-17 12:00:42.374827: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453312z8hdjg47.pdf
+2021-11-17 12:00:43.837186: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533103f50vpyk.pdf
+2021-11-17 12:00:45.315158: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330y36jlhkrz.pdf
+2021-11-17 12:00:46.791771: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330w2wv6cx37.pdf
+2021-11-17 12:00:48.351306: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330t3qksmkbk.pdf
+2021-11-17 12:00:49.819187: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330r54prfzmf.pdf
+2021-11-17 12:00:51.323263: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330p5zpdj235.pdf
+2021-11-17 12:00:51.323457: Round 5 Not Successful.
+2021-11-17 12:10:59.084025: Chrome Started for main page.
+2021-11-17 12:11:01.646369: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331p2h7qh4f3.pdf
+2021-11-17 12:11:03.113327: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331l9d5d32dh.pdf
+2021-11-17 12:11:04.632125: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331gd3m03cx0.pdf
+2021-11-17 12:11:06.102113: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331d6tzsq4lt.pdf
+2021-11-17 12:11:07.568690: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331b11zt7fdp.pdf
+2021-11-17 12:11:09.042497: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453317509fh266.pdf
+2021-11-17 12:11:10.575066: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453314zk8yp8xf.pdf
+2021-11-17 12:11:12.082863: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453312z8hdjg47.pdf
+2021-11-17 12:11:13.597321: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533103f50vpyk.pdf
+2021-11-17 12:11:15.068858: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330y36jlhkrz.pdf
+2021-11-17 12:11:16.585922: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330w2wv6cx37.pdf
+2021-11-17 12:11:18.093240: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330t3qksmkbk.pdf
+2021-11-17 12:11:19.562846: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330r54prfzmf.pdf
+2021-11-17 12:11:21.078643: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330p5zpdj235.pdf
+2021-11-17 12:11:21.078839: Round 6 Not Successful.
+2021-11-17 12:21:27.635162: Chrome Started for main page.
+2021-11-17 12:21:29.961216: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331p2h7qh4f3.pdf
+2021-11-17 12:21:31.432151: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331l9d5d32dh.pdf
+2021-11-17 12:21:32.965976: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331gd3m03cx0.pdf
+2021-11-17 12:21:34.475795: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331d6tzsq4lt.pdf
+2021-11-17 12:21:35.959027: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331b11zt7fdp.pdf
+2021-11-17 12:21:37.426983: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453317509fh266.pdf
+2021-11-17 12:21:38.940258: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453314zk8yp8xf.pdf
+2021-11-17 12:21:40.408990: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453312z8hdjg47.pdf
+2021-11-17 12:21:41.884843: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533103f50vpyk.pdf
+2021-11-17 12:21:43.461964: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330y36jlhkrz.pdf
+2021-11-17 12:21:44.933193: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330w2wv6cx37.pdf
+2021-11-17 12:21:46.404153: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330t3qksmkbk.pdf
+2021-11-17 12:21:47.874396: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330r54prfzmf.pdf
+2021-11-17 12:21:49.342411: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330p5zpdj235.pdf
+2021-11-17 12:21:49.342599: Round 7 Not Successful.
+2021-11-17 12:31:54.934454: Chrome Started for main page.
+2021-11-17 12:31:58.116994: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331p2h7qh4f3.pdf
+2021-11-17 12:31:59.590403: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331l9d5d32dh.pdf
+2021-11-17 12:32:01.132591: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331gd3m03cx0.pdf
+2021-11-17 12:32:02.610611: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331d6tzsq4lt.pdf
+2021-11-17 12:32:04.182749: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331b11zt7fdp.pdf
+2021-11-17 12:32:05.665059: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453317509fh266.pdf
+2021-11-17 12:32:07.235869: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453314zk8yp8xf.pdf
+2021-11-17 12:32:07.708269: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453312z8hdjg47.pdf
+2021-11-17 12:32:09.187647: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533103f50vpyk.pdf
+2021-11-17 12:32:10.647692: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330y36jlhkrz.pdf
+2021-11-17 12:32:11.129915: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330w2wv6cx37.pdf
+2021-11-17 12:32:12.650339: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330t3qksmkbk.pdf
+2021-11-17 12:32:13.130478: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330r54prfzmf.pdf
+2021-11-17 12:32:14.595599: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330p5zpdj235.pdf
+2021-11-17 12:32:14.595797: Round 8 Not Successful.
+2021-11-17 12:42:19.940151: Chrome Started for main page.
+2021-11-17 12:42:22.979986: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331p2h7qh4f3.pdf
+2021-11-17 12:42:24.465578: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331l9d5d32dh.pdf
+2021-11-17 12:42:25.927176: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331gd3m03cx0.pdf
+2021-11-17 12:42:27.446431: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331d6tzsq4lt.pdf
+2021-11-17 12:42:28.935094: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331b11zt7fdp.pdf
+2021-11-17 12:42:30.404476: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453317509fh266.pdf
+2021-11-17 12:42:31.870292: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453314zk8yp8xf.pdf
+2021-11-17 12:42:33.340127: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453312z8hdjg47.pdf
+2021-11-17 12:42:34.810252: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533103f50vpyk.pdf
+2021-11-17 12:42:36.338825: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330y36jlhkrz.pdf
+2021-11-17 12:42:37.822036: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330w2wv6cx37.pdf
+2021-11-17 12:42:39.291684: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330t3qksmkbk.pdf
+2021-11-17 12:42:40.762546: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330r54prfzmf.pdf
+2021-11-17 12:42:42.246216: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330p5zpdj235.pdf
+2021-11-17 12:42:42.246412: Round 9 Not Successful.
+2021-11-17 12:52:48.458661: Chrome Started for main page.
+2021-11-17 12:52:51.109955: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331p2h7qh4f3.pdf
+2021-11-17 12:52:52.629642: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331l9d5d32dh.pdf
+2021-11-17 12:52:54.113386: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331gd3m03cx0.pdf
+2021-11-17 12:52:55.624426: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331d6tzsq4lt.pdf
+2021-11-17 12:52:57.089856: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45331b11zt7fdp.pdf
+2021-11-17 12:52:58.601376: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453317509fh266.pdf
+2021-11-17 12:53:00.066834: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453314zk8yp8xf.pdf
+2021-11-17 12:53:01.587995: Omiiting Link as Already Exist /asxpdf/20211117/pdf/453312z8hdjg47.pdf
+2021-11-17 12:53:03.106654: Omiiting Link as Already Exist /asxpdf/20211117/pdf/4533103f50vpyk.pdf
+2021-11-17 12:53:04.586676: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330y36jlhkrz.pdf
+2021-11-17 12:53:06.051798: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330w2wv6cx37.pdf
+2021-11-17 12:53:07.532342: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330t3qksmkbk.pdf
+2021-11-17 12:53:08.997462: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330r54prfzmf.pdf
+2021-11-17 12:53:10.523115: Omiiting Link as Already Exist /asxpdf/20211117/pdf/45330p5zpdj235.pdf
+2021-11-17 12:53:10.523447: Round 10 Not Successful.
+2021-11-17 13:03:16.345644: Chrome Started for main page.
+2021-11-17 13:03:16.693835: No Items Found.
+2021-11-17 13:13:23.029994: Chrome Started for main page.
+2021-11-17 13:13:23.076473: No Items Found.
+2021-11-17 13:23:30.443429: Chrome Started for main page.
+2021-11-17 13:23:30.494691: No Items Found.
+2021-11-17 13:33:37.839032: Chrome Started for main page.
+2021-11-17 13:33:37.888425: No Items Found.
+2021-11-17 13:43:44.132136: Chrome Started for main page.
+2021-11-17 13:43:44.254461: No Items Found.
+2021-11-17 13:53:49.374975: Chrome Started for main page.
+2021-11-17 13:53:49.777901: No Items Found.
+2021-11-17 14:03:55.347312: Chrome Started for main page.
+2021-11-17 14:03:55.822836: No Items Found.
+2021-11-17 14:14:02.392453: Chrome Started for main page.
+2021-11-17 14:14:02.479146: No Items Found.
+2021-11-17 14:24:08.269540: Chrome Started for main page.
+2021-11-17 14:24:08.517601: No Items Found.
+2021-11-17 14:34:14.627674: Chrome Started for main page.
+2021-11-17 14:34:14.722623: No Items Found.
+2021-11-17 14:44:21.454001: Chrome Started for main page.
+2021-11-17 14:44:21.596547: No Items Found.
+2021-11-17 14:54:26.863630: Chrome Started for main page.
+2021-11-17 14:54:27.243471: No Items Found.
